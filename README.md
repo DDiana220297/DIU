@@ -47,7 +47,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 [Hi uTandem](https://www.facebook.com/Hiutandemapp/)
 
-[Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
