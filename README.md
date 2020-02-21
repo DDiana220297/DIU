@@ -31,7 +31,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
-![Verbling].(https://es.verbling.com/)
+![Verbling](https://es.verbling.com/)
 
 >>>>Busuu.
 
