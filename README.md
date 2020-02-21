@@ -33,19 +33,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Verbling](https://es.verbling.com/)
 
->>>>Busuu.
+![Busuu](https://www.busuu.com/es)
 
->>>>Tandem.
+![Tandem](https://www.tandem.net/es)
 
->>>>Hello Talk.
+![Hello Talk](https://www.hellotalk.com/#sp)
 
->>>>Conversation Exchange.
+![Conversation Exchange](https://www.conversationexchange.com/?lg=es)
 
->>>>Speaky.
+![Speaky](https://www.speaky.com/)
 
->>>>Lingvu.
+![Lingvu](https://www.facebook.com/lingvu)
 
->>>>Hi uTandem.
+![Hi uTandem](https://www.facebook.com/Hiutandemapp/)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
