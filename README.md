@@ -31,23 +31,23 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
-![Verbling](https://es.verbling.com/)
+[Verbling](https://es.verbling.com/)
 
-![Busuu](https://www.busuu.com/es)
+[Busuu](https://www.busuu.com/es)
 
-![Tandem](https://www.tandem.net/es)
+[Tandem](https://www.tandem.net/es)
 
-![Hello Talk](https://www.hellotalk.com/#sp)
+[Hello Talk](https://www.hellotalk.com/#sp)
 
-![Conversation Exchange](https://www.conversationexchange.com/?lg=es)
+[Conversation Exchange](https://www.conversationexchange.com/?lg=es)
 
-![Speaky](https://www.speaky.com/)
+[Speaky](https://www.speaky.com/)
 
-![Lingvu](https://www.facebook.com/lingvu)
+[Lingvu](https://www.facebook.com/lingvu)
 
-![Hi uTandem](https://www.facebook.com/Hiutandemapp/)
+[Hi uTandem](https://www.facebook.com/Hiutandemapp/)
 
-![Método UX](img/Persona.png) 1.b Persona
+[Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
