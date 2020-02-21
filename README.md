@@ -31,21 +31,24 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
-[Verbling](https://es.verbling.com/)
+[Verbling](https://es.verbling.com/).A través de esta plataforma puedes realizar intercambios de idiomas con personas de diferentes países: inglés, francés, italiano, alemán, ruso, portugués entre otras muchas lenguas.La plataforma te conecta con profesores nativos de estas lenguas con los que podrás llevar a cabo conversaciones y mejorar tu nivel de idiomas hasta hablar como un verdadero nativo.También hay disponibles una app de esta plataforma con lo que podrás practicar idiomas con tu smartphone.
 
-[Busuu](https://www.busuu.com/es)
+[Busuu](https://www.busuu.com/es).Con podrás aprender gratis inglés, portugués, francés, alemán, italiano y otros idiomas. Se trata de la mayor red social para el aprendizaje de idiomas. Puedes contactar con hablantes nativos en todo el mundo desde tu ordenador, tableta o móvil.
 
-[Tandem](https://www.tandem.net/es)
+Cuenta con más de 70 millones de usuarios en todo el mundo con las que practicar tus habilidades lingüísticas directamente. Con esta herramienta puedes conocer personas de todo el mundo. Además puedes enviar ejercicios escritos para que te los corrijan y también puedes corregir a otros estudiantes de busuu en tu lengua materna.
 
-[Hello Talk](https://www.hellotalk.com/#sp)
+[Tandem](https://www.tandem.net/es).Es otra de las comunidades para intercambio de idiomas online. Ofrece la posibilidad de practicar un idioma con hablantes nativos de diferentes lenguas. Practica escuchando, mejora tu pronunciación, y aprende a hablar como un autóctono sin importar donde estés.Esta herramienta también cuenta con una aplicación que puedes descargar y llevarla en tu bolsillo a todas partes. Actualmente cuentan con más de 3 millones de usuarios.
 
-[Conversation Exchange](https://www.conversationexchange.com/?lg=es)
+[Hello Talk](https://www.hellotalk.com/#sp).Hello Talk es una aplicación de intercambios de idiomas. Puedes elegir entre más de 100 idiomas. Tus profesores serán hablantes nativos de todo el mundo. Las herramientas intuitivas de HelloTalk proporcionan una experiencia que hace nunca antes haya sido tan fácil aprender y practicar un idioma nuevo.
+Además, HelloTalk cuenta con tecnología VoIP de última generación. Eso significa que con HelloTalk puedes hacer y recibir llamadas gratis de y a sus socios de aprendizaje de idiomas que son de tu confianza, todo con una calidad de sonido.
 
-[Speaky](https://www.speaky.com/)
+[Conversation Exchange](https://www.conversationexchange.com/?lg=es).Al igual que las anteriores, con Conversation Exchange podrás practicar idiomas hablantes nativos de otros países a través de conversación, chat y correspondencia escrita. La plataforma también incluye una serie de recursos para aprender o mejorar tu nivel de idiomas.
 
-[Lingvu](https://www.facebook.com/lingvu)
+[Speaky](https://www.speaky.com/).Esta es una aplicación para intercambiar idiomas disponible en iOS y Android que se define como el complemento perfecto de apps como Duolingo o Menrise. Una especie de red social para intercambiar idiomas que cuenta con más de 1 millón de usuarios y más de 110 lenguas.
 
-[Hi uTandem](https://www.facebook.com/Hiutandemapp/)
+[Lingvu](https://www.facebook.com/lingvu).También está disponible sólo como aplicación para Android. La peculiaridad de esta herramienta es que apuesta por el intercambio de idiomas cara a cara. Para ello, se basa en la proximidad de los interlocutores.Básicamente, se encuentran por la aplicación y quedan en un lugar cercano para practicar idiomas presencialmente. La app ofrece diferentes opciones para encontrar perfiles que se parezcan al tuyo y poder practicar cómodamente.
+
+[Hi uTandem](https://www.facebook.com/Hiutandemapp/).Es otra aplicación para intercambio de idiomas basada en la proximidad de los interlocutores. Esta disponible para iOS y Android y con ella podrás conocer y aprender idiomas con personas que viven en tu misma ciudad o en la ciudad. Muy útil si estás viviendo en el extranjero y quieres mejorar tu nivel de idioma.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
