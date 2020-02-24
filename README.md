@@ -40,11 +40,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 [Hello Talk](https://www.hellotalk.com/#sp).Hello Talk es una aplicación de intercambios de idiomas. Puedes elegir entre más de 100 idiomas. Tus profesores serán hablantes nativos de todo el mundo. Las herramientas intuitivas de HelloTalk proporcionan una experiencia que hace nunca antes haya sido tan fácil aprender y practicar un idioma nuevo.
 Además, HelloTalk cuenta con tecnología VoIP de última generación. Eso significa que con HelloTalk puedes hacer y recibir llamadas gratis de y a sus socios de aprendizaje de idiomas que son de tu confianza, todo con una calidad de sonido.
 
-[Lingvu](https://www.facebook.com/lingvu).También está disponible sólo como aplicación para Android. La peculiaridad de esta herramienta es que apuesta por el intercambio de idiomas cara a cara. Para ello, se basa en la proximidad de los interlocutores.Básicamente,se encuentran por la aplicación y quedan en un lugar cercano para practicar idiomas presencialmente. La app ofrece diferentes opciones para encontrar perfiles que se parezcan al tuyo y poder practicar cómodamente.
+[Lingvu](https://www.facebook.com/lingvu).La peculiaridad de esta herramienta es que apuesta por el intercambio de idiomas cara a cara. Para ello, se basa en la proximidad de los interlocutores.Básicamente,se encuentran por la aplicación y quedan en un lugar cercano para practicar idiomas presencialmente. La app ofrece diferentes opciones para encontrar perfiles que se parezcan al tuyo y poder practicar cómodamente.
 
 [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Es otra aplicación para intercambio de idiomas basada en la proximidad de los interlocutores. Esta disponible para iOS y Android y con ella podrás conocer y aprender idiomas con personas que viven en tu misma ciudad o en la ciudad. Muy útil si estás viviendo en el extranjero y quieres mejorar tu nivel de idioma.
 
->>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Lingvu](https://www.facebook.com/lingvu) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).
+>>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Lingvu](https://www.facebook.com/lingvu) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Hi uTandem](https://www.facebook.com/Hiutandemapp/) dado que está disponible en Android.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
