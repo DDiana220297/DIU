@@ -4,7 +4,7 @@ Herramientas en HTML5 para creación de:
     - 2 Personas
     - 2 User Journey Map
 
-Version online: https://github.com/salva12345678/DIU/tree/master/P1/UX-DIU-Toolkit-master/index.html
+Version online: https://salva12345678.github.io/DIU/tree/master/P1/UX-DIU-Toolkit-master/index.html
 
 Repositorio en: https://github.com/mgea/UX-DIU-Toolkit
 
