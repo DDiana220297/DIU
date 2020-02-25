@@ -6,6 +6,11 @@ Herramientas en HTML5 para creación de:
 
 Version online: https://salva12345678.github.io/DIU/tree/master/P1/UX-DIU-Toolkit-master/index.html
 
+                https://github.com/salva12345678/DIU/tree/master/P1/UX-DIU-Toolkit-master
+
+                https://github.com/mgea/UX-DIU-Toolkit
+                https://mgea.github.io/UX-DIU-Toolkit/index.html
+
 Repositorio en: https://github.com/mgea/UX-DIU-Toolkit
 
 V.1.0 Feb,12 2020
