@@ -31,14 +31,13 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
-[Verbling](https://es.verbling.com/).A través de esta plataforma puedes realizar intercambios de idiomas con personas de diferentes países.La plataforma te conecta con profesores nativos de estas lenguas con los que podrás llevar a cabo conversaciones y mejorar tu nivel de idiomas hasta hablar como un verdadero nativo.También hay disponibles una app con tu smartphone.
+[Verbling](https://es.verbling.com/).A través de esta plataforma puedes realizar intercambios de idiomas con personas de diferentes países.La plataforma te conecta con profesores nativos de estas lenguas con los que podrás llevar a cabo conversaciones y mejorar tu nivel de idiomas hasta hablar como un verdadero nativo.
 
-[Busuu](https://www.busuu.com/es).Con podrás aprender gratis inglés, portugués, francés, alemán, italiano y otros idiomas. Se trata de la mayor red social para el aprendizaje de idiomas. Puedes contactar con hablantes nativos en todo el mundo desde tu ordenador, tableta o móvil.Además puedes enviar ejercicios escritos para que te los corrijan y también puedes corregir a otros estudiantes de busuu en tu lengua materna.
+[Busuu](https://www.busuu.com/es).Se trata de la mayor red social para el aprendizaje de idiomas. Puedes contactar con hablantes nativos en todo el mundo desde tu ordenador, tableta o móvil.Además puedes enviar ejercicios escritos para que te los corrijan y también puedes corregir a otros estudiantes de busuu en tu lengua materna.
 
 [Tandem](https://www.tandem.net/es).Intercambio de idiomas online. Ofrece la posibilidad de practicar un idioma con hablantes nativos de diferentes lenguas. Practica escuchando, mejora tu pronunciación, y aprende a hablar como un autóctono sin importar donde estés.Esta herramienta también cuenta con una aplicación que puedes descargar y llevarla en tu bolsillo a todas partes.
 
-[Hello Talk](https://www.hellotalk.com/#sp).Hello Talk es una aplicación de intercambios de idiomas. Puedes elegir entre más de 100 idiomas. Tus profesores serán hablantes nativos de todo el mundo. Las herramientas intuitivas de HelloTalk proporcionan una experiencia que hace nunca antes haya sido tan fácil aprender y practicar un idioma nuevo.
-Además, HelloTalk cuenta con tecnología VoIP de última generación. Eso significa que con HelloTalk puedes hacer y recibir llamadas gratis de y a sus socios de aprendizaje de idiomas que son de tu confianza, todo con una calidad de sonido.
+[Hello Talk](https://www.hellotalk.com/#sp).Las herramientas intuitivas de HelloTalk proporcionan una experiencia que hace nunca antes haya sido tan fácil aprender y practicar un idioma nuevo.
 
 [Lingvu](https://www.facebook.com/lingvu).La peculiaridad de esta herramienta es que apuesta por el intercambio de idiomas cara a cara. Para ello, se basa en la proximidad de los interlocutores.Básicamente,se encuentran por la aplicación y quedan en un lugar cercano para practicar idiomas presencialmente. La app ofrece diferentes opciones para encontrar perfiles que se parezcan al tuyo y poder practicar cómodamente.
 
