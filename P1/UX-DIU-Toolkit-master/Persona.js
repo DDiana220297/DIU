@@ -29,35 +29,35 @@ angular.module("angular", [])
 
 				Id: 0,
 				Name: " Manuel Molina Muñoz ",
-				Photo: "hombre1.png",
+				Photo: "hombre1.jpeg",
 				Quote: "Salir de la ciudad y ver mundo",
 				Age: 50,
 				Occupation: "Profesor de matemáticas y física",
 				Family: "Con pareja desde hace 25 años",
 				Location: "Madrid (Vallecas)",
-				Character: "Le gusta disfrutar de la ciencia y las nuevas tecnologias",
+				Character: "Le gusta disfrutar de la ciencia e iniciarse en las nuevas tecnologias.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				],
-				Goals: ["Disfrutar de un buen libro, Ir a la playa con mi familia", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar de un buen libro"," Ir a la playa con su familia.", "Viajar para conocer otras culturas."],
+				Frustrations: ["Me gusta aprender pero sino no llega a entender y comprender como funciona todo siente que está frustado.", "Me gustaría tener más tiempo libre para poder seguir aprendiendo."],
+				Bio: "Soy de Zaragoza pero estudié en Madrid y acabe quedandose allí por el trabajo y formé una familia, pero siempre he sentido que quería llegar más lejos. LLevo 20 años trabajando como profesor. Me siento realizado en el trabajo y me suelo llevar bien con todos mis compañeros de trabajo.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 3 }
 
 				],
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",
+                Contextos: "LLeva un tiempo preocupado porque ahora le exigen un idioma para poder seguir dando clase y quiere apuntarse a una academia de idiomas.Le gustaria hacer un viaje con su familia al norte de Europa.",
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 3 },
+					{ Name: "Online & Social Media", Value: 4 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			},
 			{
@@ -69,36 +69,36 @@ angular.module("angular", [])
 
 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Noelia García Martín",
+				Photo: "mujer1.jpeg",
+				Quote: "Destaca en lo que te apasiona",
+				Age: 45,
+				Occupation: " Veterinaria ",
+				Family: "Divorciada y con dos hijas",
+				Location: "Valencia",
+				Character: "Disfruta pasando tiempo con sus hijas y sus mascotas.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				],
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Vivir nuevas experiencias.", "Conocer gente que comparta sus gustos.", "Aprender idiomas.", "Cocinar como una profesional.", "No dejarme llevar por la timidez."],
+				Frustrations: ["No tener tiempo para mi misma.", "Ver el cuarto de mis hijas desordenado.", "Ser tan timida con mis compañeros de trabajo.", "Hacer horas extra cuando ya tenía planes.", "Me cuesta bastante hablar y comprender los idiomas."],
+				Bio: "Nací y crecí en Valencia y no lo cambiaría por nada.Tuve la suerte de estudiar veterinaria y actualmente estoy ejerciendo esta profesión.Tengo dos hijas preciosas.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Mobile", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "Software", Value: 3 }
 
 				],
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Ve la necesidad de querer viajar más para poder mundo.Además ve que ese mundo está cambiando y necesita aprender un nuevo idioma para poder progresar en su carrera." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			}
 		];
