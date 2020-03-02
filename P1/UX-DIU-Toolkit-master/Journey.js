@@ -41,10 +41,10 @@ angular.module("angular", [])
                 ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet recomendaciones de la profesora y encuentra una página que  ",
+                goal2: "Busca en internet recomendaciones de la profesora y encuentra una varias página que le llama la atención ",
                 touch2: "ordenador",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                feel2: "3",
+                con2: "Hay demasiada información sobre demasiadas páginas web y aplicaciones para movil",
                 ima2: "cartoon-PCangry.png",
 
                 /*** PASO #3: ACTUA ***/
