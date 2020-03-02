@@ -41,7 +41,7 @@ angular.module("angular", [])
                 ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet recomendaciones de la profesora ",
+                goal2: "Busca en internet recomendaciones de la profesora y encuentra una página que  ",
                 touch2: "ordenador",
                 feel2: "2",
                 con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
