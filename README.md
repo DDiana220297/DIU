@@ -45,6 +45,8 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 
 ![foto2](img/NOEL1.png)
 
+Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

@@ -20,5 +20,11 @@ He encontrado una serie de plataformas que se ajustan a lo que se está buscando
 [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Es otra aplicación para intercambio de idiomas basada en la proximidad de los interlocutores. Esta disponible para iOS y Android y con ella podrás conocer y aprender idiomas con personas que viven en tu misma ciudad o en la ciudad. Muy útil si estás viviendo en el extranjero y quieres mejorar tu nivel de idioma.
 
 - 2 Personas
+
+![foto1](img/MANU1.png)
+
+
+![foto2](img/NOEL1.png)
+
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
