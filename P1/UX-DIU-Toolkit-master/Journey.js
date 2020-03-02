@@ -30,18 +30,18 @@ angular.module("angular", [])
                 /*************************************/
 
 				Id: 0,
-				Name: "Manuel Rodriguez",
-                Photo: "man.png",
+				Name: "Manuel Molina Muñoz",
+                Photo: "hombre1.jpeg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
+                goal1: "La profesora de ingles le ha recomendado para mejorar pronunciación y afinar el oido.",
                 touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                feel1: "3",
+                con1: "Buscar una alternativa para mejorar lo ve como algo desconocido y novedoso y al principio lo ve con inseguridad.",
+                ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Busca en internet recomendaciones de la profesora ",
                 touch2: "ordenador",
                 feel2: "2",
                 con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
@@ -89,7 +89,7 @@ angular.module("angular", [])
 
 				Id: 1,
 				Name: "Monica Suarez",
-                Photo: "woman.png",
+                Photo: "mujer1.jpeg",
 
 				 /*** PASO #1: INSPIRACION ***/
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",

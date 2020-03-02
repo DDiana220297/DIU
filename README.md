@@ -31,7 +31,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
->>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Lingvu](https://www.facebook.com/lingvu) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Hi uTandem](https://www.facebook.com/Hiutandemapp/) dado que está disponible en Android.
+>>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Tandem](https://www.tandem.net/es) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Tandem](https://www.tandem.net/es) dado que está disponible en Android y no muestra problemas "graves".
 
 Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
