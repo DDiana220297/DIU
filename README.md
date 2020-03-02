@@ -33,7 +33,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Lingvu](https://www.facebook.com/lingvu) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Hi uTandem](https://www.facebook.com/Hiutandemapp/) dado que está disponible en Android.
 
-Para más información sobre las otras plataformas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
