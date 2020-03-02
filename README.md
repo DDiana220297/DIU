@@ -40,8 +40,11 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+>>>En primer lugar hemos creado a Manuel, una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
+
 ![foto1](img/MANU1.png)
 
+>>>Por último, también hemos creado a Noelia, la cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
 ![foto2](img/NOEL1.png)
 
