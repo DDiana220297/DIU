@@ -21,10 +21,10 @@ He encontrado una serie de plataformas que se ajustan a lo que se está buscando
 
 - 2 Personas
 
-![foto1](img/MANU1.png)
+![foto1](MANU1.png)
 
 
-![foto2](img/NOEL1.png)
+![foto2](NOEL1.png)
 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
