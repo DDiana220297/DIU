@@ -6,6 +6,7 @@
 - Desk research: Análisis Competencia.
 
 He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
+
 [Meetup-Language](https://www.meetup.com/es-ES/find/language/).Plataforma que también se le ha dado el uso para el aprendizaje de idiomas en grupos donde tu mismo puedes crearlos además compartir experiencias y el idioma.
 
 [Verbling](https://es.verbling.com/).A través de esta plataforma puedes realizar intercambios de idiomas con personas de diferentes países.La plataforma te conecta con profesores nativos de estas lenguas con los que podrás llevar a cabo conversaciones y mejorar tu nivel de idiomas hasta hablar como un verdadero nativo.

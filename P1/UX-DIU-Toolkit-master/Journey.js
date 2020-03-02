@@ -35,49 +35,49 @@ angular.module("angular", [])
 
                 /*** PASO #1: INSPIRACION ***/
                 goal1: "La profesora de ingles le ha recomendado para mejorar pronunciación y afinar el oido.",
-                touch1: "agenda",
-                feel1: "3",
+                touch1: "Profesora(Conversación)",
+                feel1: "2",
                 con1: "Buscar una alternativa para mejorar lo ve como algo desconocido y novedoso y al principio lo ve con inseguridad.",
                 ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet recomendaciones de la profesora y encuentra una varias página que le llama la atención ",
+                goal2: "Busca en internet recomendaciones de la profesora y encuentra una varias página que le llama la atención. ",
                 touch2: "ordenador",
                 feel2: "3",
-                con2: "Hay demasiada información sobre demasiadas páginas web y aplicaciones para movil",
+                con2: "Hay demasiada información sobre demasiadas páginas web y aplicaciones para movil y eso le extresa facilmente.",
                 ima2: "cartoon-PCangry.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Finalmente encuentra una página que le convence y que además vee que hay gente de su edad.",
+                touch3: "Ordenador",
+                feel3: "2",
+                con3: "Observa que no hay en este momento en su ciudad ningún grupo para quedar y hablar en ingles",
+                ima3: "cartoon-PChappy.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
+                goal4: "Observa que en la página web el mismo puede crear un grupo y que la gente puede unirse a el",
+                touch4: "Ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                con4: "El espera que desde el momento en el que ha creado el grupo en la página se una  bastante gente y sin embargo solo se unen dos personas ",
                 ima4: "cartoon-PCtyping.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Ve que existe la versión en aplicación y la usa para cuando vaya a esa 'reunión'. ",
+                touch5: "móvil (aplicación)",
+                feel5: "4",
+                con5: "Le parece más intutiva la página web además de que la gente no se pone en acuerdo en el lugar de reunión.",
+                ima5: "cartoon-phone.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                goal6: "Consigue poner en acuerdo al grupo en el lugar acordado",
+                touch6: "móvil (aplicación)",
+                feel6: "5",
+                con6: "A pesar de poner a todo el mundo en acuerdo,el llegará tarde",
                 ima6: "cartoon-resting.png",
 
 			},
@@ -88,55 +88,55 @@ angular.module("angular", [])
                 /*************************************/
 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Noelia García Martín",
                 Photo: "mujer1.jpeg",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Quiere que sus hijas aprendan más idiomas además de que ella puede aprovechar el mismo objetivo.",
+                touch1: "Agenda",
+                feel1: "2",
+                con1: "No tiene tiempo de apuntarse a una academia y las que encuentra tiene un precio elevado.",
+                ima1: "cartoon-thinking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Le cuenta el problema a un compañero de trabajo y el recomienda que use muchas de las web que hay para idiomas ",
+                touch2: "Conversación(compañero de trabajo).",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Se agobia al ver tantas página web dedicadas a los idiomas y que les muestra demasiada información.",
+                ima2: "cartoon-PChard.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                goal3: "Encuentra una página que le llama la atención y que puede ser la apropiada ",
+                touch3: "Ordenador",
+                feel3: "3",
+                con3: "Piensa que está perdiendo el tiempo y que no tendrá tiempo para esto.",
                 ima3: "cartoon-phoningangry.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "A los dias vuelve a probar con la página y observa que se van a reunir en un bar cercano.",
+                touch4: "Ordenador.",
+                feel4: "4",
+                con4: "Le preocupa que sus hijas no puedan ir a la reunión.",
+                ima4: "cartoon-deciding.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                goal5: "Las personas que forman el grupo le dicen que no hay problema con sus hijas y que pueden asistir ",
+                touch5: "Ordenador.",
+                feel5: "5",
+                con5: "Se ve insegura al volver empezar a hablar otro idioma.",
                 ima5: "cartoon-phone-sitting.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Al final su jefe le cambia el turno en el ultimo momento y no puede asistir",
+                touch6: "Ordenador.",
+                feel6: "1",
+                con6: "Tendrá que quedar otro dia para poder con al gente de la aplicación",
+                ima6: "cartoon-speaking.png",
 
 
 
