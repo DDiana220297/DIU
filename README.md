@@ -40,16 +40,17 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
-
 ![foto1](img/MANU1.png)
 
 
 ![foto2](img/NOEL1.png)
 
 
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
+----
+
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
