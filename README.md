@@ -19,7 +19,7 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.
+>>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
 
 
 # Proceso de Diseño
@@ -62,9 +62,10 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf)
+      Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Valoración final (numérica):64
+>>> - Comentario sobre la valoración:En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante fácil.
 
 
 ## Paso 2. UX Design  
