@@ -49,7 +49,7 @@ angular.module("angular", [])
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Finalmente encuentra una página que le convence y que además vee que hay gente de su edad.",
+                goal3: "Finalmente encuentra una página que le convence y que además ve que hay gente de su edad.",
                 touch3: "Ordenador",
                 feel3: "2",
                 con3: "Observa que no hay en este momento en su ciudad ningún grupo para quedar y hablar en ingles",

@@ -38,34 +38,28 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>>En primer lugar hemos creado a [Manuel](https://github.com/salva12345678/DIU/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
 
->>>En primer lugar hemos creado a Manuel, una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
-
-![foto1](img/MANU1.png)
-
->>>Por último, también hemos creado a Noelia, la cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
-
-![foto2](img/NOEL1.png)
-
-Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+>>>Por último, también hemos creado a [Noelia](https://github.com/salva12345678/DIU/tree/master/P1), Es cual es una persona bastante tímida, y que además no está iniciada en el mundo de estas nuevas plataformas por lo tanto le es difícil hacer esta tarea además de que sus circunstancias familiares no la da mucho margen de tiempo libre.
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres)
+>>> La
 
+
+Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
+>>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
 >>> - Valoración final (numérica):64
->>> - Comentario sobre la valoración:En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante fácil.
+>>> - Comentario sobre la valoración:En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es fácil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante fácil.
 
 
 ## Paso 2. UX Design  

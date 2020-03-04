@@ -21,6 +21,15 @@ He encontrado una serie de plataformas que se ajustan a lo que se está buscando
 
 [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Es otra aplicación para intercambio de idiomas basada en la proximidad de los interlocutores. Esta disponible para iOS y Android y con ella podrás conocer y aprender idiomas con personas que viven en tu misma ciudad o en la ciudad. Muy útil si estás viviendo en el extranjero y quieres mejorar tu nivel de idioma.
 
+Tabla de comparativas:
+
+|EMPRESAS    | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
+| :------:   | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
+| Gratis |   | SI              |  SI    |     SI      | SI     | SI        | SI     |  SI          |
+
+
+
+
 - 2 Personas
 
 En primer lugar hemos creado a Manuel, una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
