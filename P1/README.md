@@ -23,12 +23,19 @@ He encontrado una serie de plataformas que se ajustan a lo que se está buscando
 
 Tabla de comparativas:
 
-|EMPRESAS    | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
-| :------:   | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
-| Gratis |   | SI              |  SI    |     SI      | SI     | SI        | SI     |  SI          |
-
-
-
+|EMPRESAS  | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
+| :------: | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
 
 - 2 Personas
 
