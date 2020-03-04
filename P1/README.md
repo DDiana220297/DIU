@@ -25,16 +25,16 @@ Tabla de comparativas:
 
 |EMPRESAS  | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
 | :------: | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Gratis           | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Opción de pago   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Idiomas   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| web   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Android   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| iOS   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Proximidad de interlocutores   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Videoconferencia   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Chat   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Herramientas lingüísticas   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
 | Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
 
 - 2 Personas
