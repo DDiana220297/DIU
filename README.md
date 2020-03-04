@@ -58,7 +58,7 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 >>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final (numérica):64
+>>> - Valoración final:64
 >>> - Comentario sobre la valoración:En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es fácil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante fácil.
 
 
