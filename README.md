@@ -11,7 +11,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:     
-
+ * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat:   
 -----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
@@ -59,9 +59,10 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf)
+
 >>> - Valoración final (numérica):
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
