@@ -23,19 +23,18 @@ He encontrado una serie de plataformas que se ajustan a lo que se está buscando
 
 Tabla de comparativas:
 
-|EMPRESAS  | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
-| :------: | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
-| Gratis           | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Opción de pago   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Idiomas   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| web   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Android   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| iOS   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Proximidad de interlocutores   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Videoconferencia   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Chat   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Herramientas lingüísticas   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Gratis   | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+|EMPRESAS                        | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
+| :------:                       | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
+| Gratis                         | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Opción de pago                 | SI              |  NO      |     SI    | NO       | NO          | NO       |  NO        |
+| Más de un idiomas              | SI              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
+| web                            | SI              |  SI      |     SI    | SI       | SI          | NO       |  NO        |
+| Android                        | SI              |  NO      |     SI    | SI       | SI          | NO       |  SI        |
+| iOS                            | SI              |  NO      |     SI    | SI       | NO          | NO       |  SI        |
+| Proximidad de interlocutores   | SI              |  NO      |     NO    | NO       | NO          | NO       |  SI        |
+| Videoconferencia               | NO              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Chat                           | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
+| Herramientas lingüísticas      | NO              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
 
 - 2 Personas
 
