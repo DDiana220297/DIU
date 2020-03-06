@@ -48,3 +48,20 @@ Por último, también hemos creado a Noelia, la cual es una persona bastante tí
 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
+
+>>> - Enlace al documento:
+      Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
+
+>>> - Valoración final:64
+>>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
+
+
+|VALORACIÓN  | ASPECTOS POSITIVOS                                    | ASPECTOS NEGATIVOS |
+| :------:   | :------:                                              | :------:           |
+|            | Cumple con el objetivo que se persigue                |  Volver atrás te lleva a una página en blanco         |
+|            | La información precisa y no redundante                |  Los marcadores descuadrados             |
+|            | Los resultado de las búsquedas relevantes.            |  Ubicación no clara                |
+|            | Resultados precisos.                                  |  Parámetros múltiples pobre                |
+|            | Buen rendimiento de la página.                        |  No búsquedas comunes                |
+|            |                                                       |  No se pueden enviar comentarios                |
+|            |                                                       |  No hay correo de la empresa                |

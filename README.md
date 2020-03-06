@@ -53,13 +53,14 @@ Para más información sobre los personajes desarrollados [pulse aquí](https://
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+
 >>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
 >>> - Valoración final:64
->>> - Comentario sobre la valoración:En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es fácil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante fácil.
+>>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
+
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
 ## Paso 2. UX Design  
