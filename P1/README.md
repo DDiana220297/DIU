@@ -48,13 +48,13 @@ Por último, también hemos creado a Noelia, la cual es una persona bastante tí
 
 - 2 User Journey Map
 
-El problema de Manuel con el ingles
+El problema de Manuel con el ingles.
 
 La primera historia trata sobre nuestro amigo Manuel que para aprender ingles busca en páginas web hasta dar con la acertada(recomendada por un amigo) y como la página se le pone en ingles pide ayuda al servicio técnico que tarda bastante en responder y que al final le pide ayuda a su amigo.
 
 ![foto3](HISTO1.png)
 
-
+Encuentro por sorpresa con su ex.
 
 La segunda historia trata sobre nuestra amiga Noelia que se apunta a una página para aprender idiomas y allí descubre que en el grupo en el que está se encuentra su exmarido y por eso cambia su nombre y su foto pero esta es reconocida por el exmarido porque uso su nombre de pila.
 
