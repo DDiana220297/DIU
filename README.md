@@ -46,10 +46,11 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> La
+>>> El problema de Manuel con el ingles.
 
+>>> Encuentro por sorpresa con su ex.
 
-Para más información sobre los personajes desarrollados [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+Para más información sobre la historia desarrollada [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
