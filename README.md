@@ -46,11 +46,9 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> El problema de Manuel con el ingles.
+>>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).
 
->>> Encuentro por sorpresa con su ex.
-
-Para más información sobre la historia desarrollada [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
+>>> [Encuentro por sorpresa con su ex](https://github.com/salva12345678/DIU/tree/master/P1).
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
