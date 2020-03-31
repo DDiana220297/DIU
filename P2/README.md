@@ -58,18 +58,22 @@
 
 Término | Icono | Significado
 | ------------- | ------- | ------- |
-|  Perfil   | 1 | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
-|  Correo   | 2 | Se accede al apartado de mensajería donde podremos ver nuestros contactos y mensajes.                                      |
-|  Amigos   | 1 | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
-|  LISTA MENSAJES  | 2 | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
+|  1.Perfil   | 1 | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
+|  2.Correo   | 2 | Se accede al apartado de mensajería donde podremos ver nuestros contactos y mensajes.                                      |
+|  2.1.Amigos   | 1 | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
+|  2.2.LISTA MENSAJES  | 2 | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
+|  3.Extensión panel lateral  | 1 | Se acceden a funcionalidades más específicas, acceso a perfil, ajustes, Promociones, establecimientos, Premium, servicio Premium. |
+|  1.Grupos  | 2 | En este apartado aparecerán, en función de su última actividad, los distintos grupos a los que perteneces acompañado de su foto de grupo, y la información que quiere hacer llegar los administradores del grupo, además del anuncio de actividades nuevas propuestas.|
+|  1.1.Asistir actividad  | 1 | Si el post es de una actividad nueva, puedes inscribirte mientras haya plazas. |
+|  2.Actividades  | 2 | Aparecen los eventos a los que has indicado que asistirás para ver las novedades que surjan en este. |
+|  2.1.Anular actividad  | 1 | Opción disponible si ya no le interesa asistir al evento y no sufrir las penalizaciones. |
+|  3.Registrarse  | 2 | lo que signifique |
+|  3.1.Premium  | 1 | lo que signifique |
+|  3.2.Gratuito  | 2 | lo que signifique |
+|  4.Iniciar Sesión  | 2 | lo que signifique |
+|  5.Recordar contraseña  | 2 | lo que signifique |
+|  6.Tendencias  | 2 | lo que signifique |
+|  1.Gratuito  | 2 | lo que signifique |
 
 
 
