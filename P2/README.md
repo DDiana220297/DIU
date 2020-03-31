@@ -44,14 +44,14 @@
 | Modo nocturno      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 | Modo privado       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 | Consultar lugar      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| ejemplo       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar dinero       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 
 
 - Labelling:Arquitectura De La Información.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | ![Modo nocturno](img/nocturno.jpeg)
+Término | Icono | Significado
+| ------------- | ------- | -------
+  Login¿?  | ![Modo nocturno](img/nocturno.jpeg) | lo que signifique
 
 
 - Wireframes:Bocetos de la interfaz.
