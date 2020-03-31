@@ -73,7 +73,6 @@ En la malla receptora de información que hemos recopilado teniendo en cuenta la
 Para ver la malla receptora de información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 
-
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
