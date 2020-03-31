@@ -58,10 +58,10 @@
 
 Término | Icono | Significado
 | ------------- | ------- | ------- |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
-|  Login¿?  | 1 | lo que signifique |
-|  Login¿?  | 2 | lo que signifique |
+|  Perfil   | 1 | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
+|  Correo   | 2 | Se accede al apartado de mensajería donde podremos ver nuestros contactos y mensajes.                                      |
+|  Amigos   | 1 | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
+|  LISTA MENSAJES  | 2 | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
 |  Login¿?  | 1 | lo que signifique |
 |  Login¿?  | 2 | lo que signifique |
 |  Login¿?  | 1 | lo que signifique |
