@@ -1,11 +1,8 @@
-DIU - Practica2, entregables
+## DIU - Practica 2.
 
-## Paso 2. UX Design  
+- Feedback Capture Grid: Malla Receptora De Información.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-
-## Malla receptora de información
-
 
   | Interesante                                                          | Críticas                                          |
   | :------:                       | :------:        |
@@ -24,9 +21,3 @@ DIU - Practica2, entregables
   | 6.Me gustaría un  modo privado.                                      | 6.Un tutorial guiado.                             |
   | 7.Un modo nocturno nocturno.                                         | 7.Un monedero para el saldo.                      |
   | 8.Un modo de realidad virtual  poder quedar con el grupo desde casa. | 8.                                                |
-
-
-
-Sitemap & Task flow
-Labelling
-Wireframe & User flow
