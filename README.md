@@ -77,16 +77,20 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
   Preguntas | Nuevas ideas
 
 
-  | Interesante                    | Críticas |
-  | :------:                       | :------: |     
-  | Gratis                         | SI          |       
-  | Opción de pago                 | SI             |      
-  | Más de un idiomas              | SI                 |      
-  | Preguntas                      | Nuevas ideas       |
-  | :------:                       | :------: |         
-  | Android                        | SI       |       
-
-
+  | Interesante                                                          | Críticas |
+  | 1.Información precisa y concisa.                                     | 1.Error a la hora de recargar una página anterior.|       
+  | 2.Permanencia en grupos en el tiempo.                                | 2.Poca variedad en la asistencia de ayuda.        |      
+  | 3.Un buscador por calendario.                                        | 3.Poca coherencia entre secciones.                |
+  | 4.La página orienta a los usuarios a que hacer primero.              | 4.Mantener la coherencia del idioma.               |    
+  | Preguntas                                                            | Nuevas ideas                               |
+  | 1.Se le cambió el idioma tras su registro                            | 1.      |
+  | 2.Poner claro donde está el servicio técnico.                        | 2.       |        
+  | 3.Chat de ayuda en mi idioma.                                        | 3.       |
+  | 4.El chat más amplio en cuestión de temas                            | 4.       |
+  | 5.No hay ninguna guia ni video para principiantes.                   | 5.
+  | 6.Me gustaria un  modo privado.                                      | 6.
+  | 7.Un modo nocturno nocturno.                                         | 7.
+  | 8.Un modo de realidad virtual  poder quedar con el grupo desde casa. | 8.
 
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
