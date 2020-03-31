@@ -85,7 +85,7 @@ Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva123
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | ![Método UX](img/nocturno.jpeg)
+  Login¿?  | ![Método UX](img/labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
