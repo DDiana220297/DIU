@@ -77,7 +77,7 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
   Preguntas | Nuevas ideas
 
 
-  |                        | Meetup-Language | Verbling | Busuu     | Tandem   | Hello Talk  | Lingvu   | Hi uTandem |
+  | Interesante                    | Críticas | 
   | :------:                       | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
   | Gratis                         | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
   | Opción de pago                 | SI              |  NO      |     SI    | NO       | NO          | NO       |  NO        |
