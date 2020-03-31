@@ -79,12 +79,10 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 
   | Interesante                    | Críticas |
   | :------:                       | :------: |     
-  | Gratis                         | SI       |       
-  | Opción de pago                 | SI       |      
-  | Más de un idiomas              | SI       |
-
-        
-  | web                            | SI       |
+  | Gratis                         | SI          |       
+  | Opción de pago                 | SI             |      
+  | Más de un idiomas              | SI                 |      
+  | Preguntas                      | Nuevas ideas       |
   | :------:                       | :------: |         
   | Android                        | SI       |       
 
