@@ -25,29 +25,34 @@
 
 |GRUPOS DE USUARIOS              | Usuario         | Usuario Premium      | Profesional     | Establecimientos   | Usuarios no registrados  | Ranking  |
 | :------:                       | :------:        | :------:             |  :------:       | :------:           |  :------:                | :------: |
-| BUSCAR                         | SI              |  SI                  |     SI          | SI                 | SI                       | SI       |
-| Consultar Promociones          | SI              |  NO                  |     SI          | NO                 | NO                       | NO       |
-| Consultar Notificaciones              | SI              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Consultar ayuda                        | SI              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Alta en grupo                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
-| Asistir evento                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
-| Baja de grupo                       | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
-| Dejar de asistir                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |   
-| Crear Grupo                       | SI              |  NO                  |     SI          | SI                 | NO                       | NO       |  
-| Ver Mensajes                           | SI              |  NO                  |     NO          | NO                 | NO                       | NO       |
-| Borrar grupo                | NO              |  SI                  |     SI          | SI                 | SI                       | SI       |  
-| Borrar evento                           | SI              |  SI                  |     SI          | SI                 | SI                       | SI       |  
-| Abonar Dinero                 | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Registrarse       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Cambiar idioma      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Validar lugar       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Modo nocturno      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Modo privado       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Consultar establecimiento      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Consultar dinero       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Hacerte Premium       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Poner Promoción       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Quitar Promoción       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Buscar.                        | SI              |  SI                  |     SI          | SI                 | SI                       | SI       |
+| Consultar Promociones.          | SI              |  NO                  |     SI          | NO                 | NO                       | NO       |
+| Consultar Notificaciones.              | SI              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar ayuda.                        | SI              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Alta en grupo.                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
+| Asistir evento.                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
+| Baja de grupo.                       | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |
+| Dejar de asistir.                        | SI              |  NO                  |     SI          | SI                 | SI                       | NO       |   
+| Crear Grupo.                       | SI              |  NO                  |     SI          | SI                 | NO                       | NO       |  
+| Ver Mensajes.                     | SI              |  NO                  |     NO          | NO                 | NO                       | NO       |
+| Borrar grupo.              | NO              |  SI                  |     SI          | SI                 | SI                       | SI       |  
+| Borrar evento.                       | SI              |  SI                  |     SI          | SI                 | SI                       | SI       |  
+| Abonar Dinero.                 | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Registrarse.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Cambiar idioma.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Validar establecimiento.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Poner modo nocturno.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Pasar a privado.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar establecimiento.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar dinero.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Hacerte Premium.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Poner Promoción.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Quitar Promoción.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar calendario.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar chat.       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar Correo.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Enviar Correo.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Iniciar Sesión.      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 
 - Labelling:Arquitectura De La Información.
 
