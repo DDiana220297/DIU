@@ -43,9 +43,11 @@
 | Validar lugar       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 | Modo nocturno      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 | Modo privado       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-| Consultar lugar      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Consultar establecimiento      | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 | Consultar dinero       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
-
+| Hacerte Premium       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Poner Promoción       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
+| Quitar Promoción       | NO              |  SI                  |     SI          | SI                 | SI                       | NO       |
 
 - Labelling:Arquitectura De La Información.
 
