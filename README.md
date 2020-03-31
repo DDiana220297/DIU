@@ -77,18 +77,13 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
   Preguntas | Nuevas ideas
 
 
-  | Interesante                    | Críticas | 
-  | :------:                       | :------:        | :------: |  :------: | :------: |  :------:   | :------: |  :------:  |
-  | Gratis                         | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-  | Opción de pago                 | SI              |  NO      |     SI    | NO       | NO          | NO       |  NO        |
-  | Más de un idiomas              | SI              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
-  | web                            | SI              |  SI      |     SI    | SI       | SI          | NO       |  NO        |
-  | Android                        | SI              |  NO      |     SI    | SI       | SI          | NO       |  SI        |
-  | iOS                            | SI              |  NO      |     SI    | SI       | NO          | NO       |  SI        |
-  | Proximidad de interlocutores   | SI              |  NO      |     NO    | NO       | NO          | NO       |  SI        |
-  | Videoconferencia               | NO              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-  | Chat                           | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-  | Herramientas lingüísticas      | NO              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
+  | Interesante                    | Críticas |
+  | :------:                       | :------: |     
+  | Gratis                         | SI       |       
+  | Opción de pago                 | SI       |      
+  | Más de un idiomas              | SI       |       
+  | web                            | SI       |       
+  | Android                        | SI       |       
 
 
 
