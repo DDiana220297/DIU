@@ -81,7 +81,9 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
   | :------:                       | :------: |     
   | Gratis                         | SI       |       
   | Opción de pago                 | SI       |      
-  | Más de un idiomas              | SI       |       
+  | Más de un idiomas              | SI       |
+
+        
   | web                            | SI       |
   | :------:                       | :------: |         
   | Android                        | SI       |       
