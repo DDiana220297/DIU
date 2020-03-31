@@ -76,14 +76,12 @@ Para ver la malla receptora de información [pulse aquí](https://github.com/sal
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
 
->>> Definir "User Map" y "Task Flow" ...
+Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y las tareas principales para poder analizar la frecuencia de uso de las acciones y así poder situar las funcionalidades en la aplicación.Para todo esto se hará un ranking de estas funcionalidades pero también viendo otros aspectos ya que habrá algunas funcionalidades que solo usará uno de los tantos tipos de usuarios que hay.
 
+Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
-
-
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------

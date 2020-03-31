@@ -21,7 +21,7 @@
   | 8.Un modo de realidad virtual  poder quedar con el grupo desde casa. |                                                   |
 
 
-- User/task matrix​: Matriz De Tareas o Usuarios.
+- User/task matrix​: Matriz De Tareas y Usuarios.
 
 |GRUPOS DE USUARIOS              | Usuario         | Usuario Premium      | Profesional     | Establecimientos   | Usuarios no registrados  | Ranking  |
 | :------:                       | :------:        | :------:             |  :------:       | :------:           |  :------:                | :------: |
