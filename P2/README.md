@@ -49,4 +49,9 @@
 
 - Labelling:Arquitectura De La Información.
 
+Término | Significado     
+| ------------- | -------
+  Login¿?  | ![Modo nocturno](img/nocturno.jpeg)
+
+
 - Wireframes:Bocetos de la interfaz.
