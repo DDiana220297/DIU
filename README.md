@@ -68,38 +68,11 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como es el sistema de bonificación por la asistencia de los eventos en el ámbito de los idiomas ademas de buscar una simbiosis entre los tres protagonistas principales como el usuario,el profesional y el establecimiento para que se beneficien y cooperen.    
 
->>> Comenta con un diagrama los aspectos más destacados a modo de Conclusión de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+Para ver la malla receptora de información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 
-  | Interesante                                                          | Críticas                                          |
-  | :------:                       | :------:        |
-  | 1.Información precisa y concisa.                                     | 1.Error a la hora de recargar una página anterior.|       
-  | 2.Permanencia en grupos en el tiempo.                                | 2.Poca variedad en la asistencia de ayuda.        |      
-  | 3.Un buscador por calendario.                                        | 3.Poca coherencia entre secciones.                |
-  | 4.La página orienta a los usuarios a que hacer primero.              | 4.Mantener la coherencia del idioma.              |
-      
-  | Preguntas                                                            | Nuevas ideas                                      |
-  | :------:                       | :------:        |
-  | 1.Se le cambió el idioma tras su registro                            | 1.funcionalidades adaptadas al tipo de usuario.   |
-  | 2.Poner claro donde está el servicio técnico.                        | 2.Promociones por bonos o ventajas                |        
-  | 3.Chat de ayuda en mi idioma.                                        | 3.Promoción por número de amigos traídos.         |
-  | 4.El chat más amplio en cuestión de temas                            | 4.Modo premium.                                   |
-  | 5.No hay ninguna guía ni video para principiantes.                   | 5.Penalización y bonificación por la asistencia.  |    
-  | 6.Me gustaría un  modo privado.                                      | 6.Un tutorial guiado.                             |
-  | 7.Un modo nocturno nocturno.                                         | 7.Un monedero para el saldo.                      |
-  | 8.Un modo de realidad virtual  poder quedar con el grupo desde casa. | 8.                                                |
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
 -----
