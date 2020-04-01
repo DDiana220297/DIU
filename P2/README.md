@@ -117,4 +117,4 @@ Término | Icono | Significado
 
 - Wireframes:Bocetos de la interfaz.
 
-## 1.Inicio sesión.
+#### 1.Inicio sesión.
