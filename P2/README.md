@@ -61,7 +61,7 @@ Término | Icono | Significado
 |  1.Perfil   | 1 | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
 |  2.Correo   | 2 | Se accede al apartado de mensajería donde podremos ver nuestros contactos y mensajes.                                      |
 |  2.1.Amigos   | 1 | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
-|  2.2.LISTA MENSAJES  | 2 | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
+|  2.2.Lista mensajes  | 2 | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
 |  3.Extensión panel lateral  | 1 | Se acceden a funcionalidades más específicas, acceso a perfil, ajustes, Promociones, establecimientos, Premium, servicio Premium. |
 |  1.Grupos  | 2 | En este apartado aparecerán, en función de su última actividad, los distintos grupos a los que perteneces acompañado de su foto de grupo, y la información que quiere hacer llegar los administradores del grupo, además del anuncio de actividades nuevas propuestas.|
 |  1.1.Asistir actividad  | 1 | Si el post es de una actividad nueva, puedes inscribirte mientras haya plazas. |
@@ -79,24 +79,24 @@ Término | Icono | Significado
 |  2.Crear grupo o actividad  | 2 | lo que signifique |
 |  2.1.Crear grupo  | 2 | lo que signifique |
 |  2.2.Crear actividad  | 2 | lo que signifique |
-|  3.Calendario  | 2 | lo que signifique |
-|  4.Buscador  | 2 | lo que signifique |
-|  5.Notificaciones  | 2 | lo que signifique |
-|  1.Hazte premium  | 2 | lo que signifique |
-|  2.Para premium | 2 | lo que signifique |
-|  3.Promociones  | 2 | lo que signifique |
-|  4.Mis promociones  | 2 | lo que signifique |
-|  5.Establecimientos  | 2 | lo que signifique |
-|  6.Mis establecimientos  | 2 | lo que signifique |
-|  7.Monedero  | 2 | lo que signifique |
-|  8.Ajustes  | 2 | lo que signifique |
-|  8.1.Idioma  | 2 | lo que signifique |
-|  8.2.Acerca de  | 2 | lo que signifique |
-|  8.3.Privacidad  | 2 | lo que signifique |
-|  8.4.Cerrar sesión  | 2 | lo que signifique |
-|  8.5.Ayuda y soporte  | 2 | lo que signifique |
-|  8.5.1.Chat de ayuda  | 2 | lo que signifique |
-|  8.5.2.Formulario de sugerencias  | 2 | lo que signifique |
-
+|  3.Calendario  | 2 | Se accede a un calendario personal donde veremos nuestros eventos en el calendario. |
+|  4.Buscador  | 2 | Se accede a un apartado de búsqueda por donde se le proporcionará lo solicitado en función de los parámetros seleccionados:Elegir entre si se está buscando: GRUPO o ACTIVIDAD,Periodo de tiempo: Periodo en el que quiere los resultados de la búsqueda,Lugar: seleccionar las distintas ciudades que quieres que le muestre los resultados,Opción para ver los grupos cerrados y premium,Idiomas de interes,nivel de competencia lingüística.|
+|  5.Notificaciones  | 2 | Novedades en el sitio, novedades en la aplicación, perfil, aviso de notificaciones personalizadas. |
+|  1.Hazte premium  | 2 |  Hacer tu perfil premium, para acceder a sus ventajas:plazas específicas para usuarios premium en actividades,grupos y actividades exclusivos,No pagues por asistencia a actividades.|
+|  2.Para premium | 2 | Novedades para los premium, Actividades exclusivas, novedades. |
+|  3.Promociones  | 2 | Acceso a las promociones disponibles por los profesionales y establecimientos y eventos que cuentan con ellos. |
+|  4.Mis promociones  | 2 | Mis promociones ofertadas en este momento. |
+|  5.Establecimientos  | 2 | Ver los establecimientos registrados en la web y ver su ofertas. |
+|  6.Mis establecimientos  | 2 | Puedes hacer un seguimiento de tus establecimientos, actividad en ellos, solicitudes recibidas en ellos por parte de otros usuarios.|
+|  7.Monedero  | 2 | Consulta del dinero disponible. |
+|  8.Ajustes  | 2 | Configuraciones del sistema y usuario |
+|  8.1.Idioma  | 2 | Nos da la opción de elegir el idioma que queremos |
+|  8.2.Acerca de  | 2 | Donde hablamos un poco de nuestra trayectoria y situación actual, y futuros proyectos.Quienes somos.|
+|  8.3.Privacidad  | 2 | Numero de teléfono, correo electrónico, cuenta de banco,etc.|
+|  8.4.Cerrar sesión  | 2 | Cerramos la sesión actual y volvemos a la pantalla de inicio de usuario. |
+|  8.5.Ayuda y soporte  | 2 | Si tienes algún problemas aquí encontrarás información útil para solucionarlo. |
+|  8.5.1.Chat de ayuda  | 2 | Chat interactivo donde podrás preguntar a un asistente virtual temas que están predefinidos. |
+|  8.5.2.Formulario de sugerencias  | 2 | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
+|  8.6.Modo nocturno  | 2 | Para comodidad del usuario se le da opción de usar el modo oscuro. |
 
 - Wireframes:Bocetos de la interfaz.
