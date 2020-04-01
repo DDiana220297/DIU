@@ -60,8 +60,8 @@ Término | Icono | Significado
 | ------------- | ------- | ------- |
 |  1.Perfil   | ![Método UX](img/foto_1.png) | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
 |  2.Correo   | ![Método UX](img/foto_2.png) | Se accede al apartado de mensajería donde podremos ver nuestros contactos y mensajes.                                      |
-|  2.1.Amigos | ![Método UX](img/foto_3.png) | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
-|  2.2.Lista mensajes  | ![Método UX](img/foto_4.png) | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
+|  2.1.Amigos |  | Veremos nuestra lista actual de perfiles de contacto, añadir nuevos perfiles, y borrar aquellos que no queramos conservar. |
+|  2.2.Lista mensajes  |  | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
 |  3.Extensión panel lateral  | ![Método UX](img/foto_5.png) | Se acceden a funcionalidades más específicas, acceso a perfil, ajustes, Promociones, establecimientos, Premium, servicio Premium. |
 |  1.Grupos  | ![Método UX](img/foto_6.png) | En este apartado aparecerán, en función de su última actividad, los distintos grupos a los que perteneces acompañado de su foto de grupo, y la información que quiere hacer llegar los administradores del grupo, además del anuncio de actividades nuevas propuestas.|
 |  1.1.Asistir actividad  | ![Método UX](img/foto_7.png) | Si el post es de una actividad nueva, puedes inscribirte mientras haya plazas. |
@@ -74,11 +74,11 @@ Término | Icono | Significado
 |  5.Recordar contraseña  | ![Método UX](img/foto_14.png) | En caso de no recordar su contraseña podrá recuperarla rellenando un formulario. |
 |  6.Tendencias  | ![Método UX](img/foto_15.png) | La primera vez que accede a la aplicación le aparecerán grupos cercanos a su posición o con mayor popularidad  |
 |  1.Chat  | ![Método UX](img/foto_16.png) | De grupo y específicos de evento para tener contactos con aquellos integrantes. |
-|  1.1.Chat general de grupo | ![Método UX](img/foto_17.png) | Chat que solo tiene acceso los integrantes del grupo, para hablar de la realización de nuevas actividades o discusiones. |
-|  1.2.Chat de evento | ![Método UX](img/foto_18.png) | Chat temporal y exclusivo por el cual pueden hablar los que están inscritos, para hablar cosas específicas de los asistentes. Tras esta actividad, será eliminado en un periodo de tiempo. |
+|  1.1.Chat general de grupo |  | Chat que solo tiene acceso los integrantes del grupo, para hablar de la realización de nuevas actividades o discusiones. |
+|  1.2.Chat de evento |  | Chat temporal y exclusivo por el cual pueden hablar los que están inscritos, para hablar cosas específicas de los asistentes. Tras esta actividad, será eliminado en un periodo de tiempo. |
 |  2.Crear grupo o actividad  | ![Método UX](img/foto_19.png) | Se accede a los diferentes formularios para la creación del grupo o actividad. |
-|  2.1.Crear grupo  | ![Método UX](img/foto_20.png) | Se crea un grupo donde se describirá de forma breve su propósito,los idiomas que se van a usar ,el nivel linguístico y si está destinado a ser un grupo público o exclusivo. |
-|  2.2.Crear actividad  | ![Método UX](img/foto_21.png) | Se crea la actividad de un grupo donde se dará un pequeña explicación de la competencia linguística,fotos,lugar del establecimiento,fecha y hora y el precio de la asistencia.|
+|  2.1.Crear grupo  |  | Se crea un grupo donde se describirá de forma breve su propósito,los idiomas que se van a usar ,el nivel linguístico y si está destinado a ser un grupo público o exclusivo. |
+|  2.2.Crear actividad  |  | Se crea la actividad de un grupo donde se dará un pequeña explicación de la competencia linguística,fotos,lugar del establecimiento,fecha y hora y el precio de la asistencia.|
 |  3.Calendario  | ![Método UX](img/foto_22.png) | Se accede a un calendario personal donde veremos nuestros eventos en el calendario. |
 |  4.Buscador  | ![Método UX](img/foto_23.png) | Se accede a un apartado de búsqueda por donde se le proporcionará lo solicitado en función de los parámetros seleccionados:Elegir entre si se está buscando: GRUPO o ACTIVIDAD,Periodo de tiempo: Periodo en el que quiere los resultados de la búsqueda,Lugar: seleccionar las distintas ciudades que quieres que le muestre los resultados,Opción para ver los grupos cerrados y premium,Idiomas de interes,nivel de competencia lingüística.|
 |  5.Notificaciones  | ![Método UX](img/foto_24.png) | Novedades en el sitio, novedades en la aplicación, perfil, aviso de notificaciones personalizadas. |
@@ -95,8 +95,8 @@ Término | Icono | Significado
 |  8.3.Privacidad  | ![Método UX](img/foto_35.png) | Numero de teléfono, correo electrónico, cuenta de banco,etc.|
 |  8.4.Cerrar sesión  | ![Método UX](img/foto_36.png) | Cerramos la sesión actual y volvemos a la pantalla de inicio de usuario. |
 |  8.5.Ayuda y soporte  | ![Método UX](img/foto_37.png) | Si tienes algún problemas aquí encontrarás información útil para solucionarlo. |
-|  8.5.1.Chat de ayuda  | ![Método UX](img/foto_38.png) | Chat interactivo donde podrás preguntar a un asistente virtual temas que están predefinidos. |
-|  8.5.2.Formulario de sugerencias  | ![Método UX](img/foto_39.png) | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
+|  8.5.1.Chat de ayuda  |  | Chat interactivo donde podrás preguntar a un asistente virtual temas que están predefinidos. |
+|  8.5.2.Formulario de sugerencias  |  | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
 |  8.6.Modo nocturno  | ![Método UX](img/foto_40.png) | Para comodidad del usuario se le da opción de usar el modo oscuro. |
 
 - Wireframes:Bocetos de la interfaz.
