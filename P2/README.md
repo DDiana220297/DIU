@@ -65,7 +65,7 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 
 La leyenda correspondiente a la jerarquía para diferenciar correctamente a quien corresponde las funcionalidades.
 
-![Método UX](img/leyenda1.png)
+![Método UX](img/leyenda1.jpeg)
 
 Empezamos por la jerarquía de la extensión de la aplicación.
 
@@ -108,8 +108,7 @@ Término | Icono | Significado
 |  Formulario de sugerencias  |  | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
 |  Grupos  | ![Método UX](img/foto_6.png) | En este apartado aparecerán, en función de su última actividad, los distintos grupos a los que perteneces acompañado de su foto de grupo, y la información que quiere hacer llegar los administradores del grupo, además del anuncio de actividades nuevas propuestas.|
 |  Hazte premium  | ![Método UX](img/foto_25.png) |  Para los usuaro general, posibilidad de hacer tu perfil premium, para acceder a sus ventajas:plazas específicas para usuarios premium en actividades,grupos y actividades exclusivos,No pagues por asistencia a actividades.|
-|  Gratuito  |  | La otra opción es que sea un
-usuario normal pero dentro de la aplicación puede hacerse premium. |
+|  Gratuito  |  | La otra opción es que sea un usuario normal pero dentro de la aplicación puede hacerse premium. |
 |  Idioma  | ![Método UX](img/foto_33.png) | Nos da la opción de elegir el idioma que queremos |
 |  Iniciar Sesión  | ![Método UX](img/foto_13.png) | Tras meter los datos del nombre de cuenta y contraseña accederá a la aplicación.|
 |  Lista mensajes  |  | Acceso a nuestro buzón de entrada y donde redactar nuestros correos.                                                |
