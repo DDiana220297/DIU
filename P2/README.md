@@ -68,8 +68,8 @@ Término | Icono | Significado
 |  2.Actividades  | ![Método UX](img/foto_8.png) | Aparecen los eventos a los que has indicado que asistirás para ver las novedades que surjan en este. |
 |  2.1.Anular actividad  | ![Método UX](img/foto_9.png) | Opción disponible si ya no le interesa asistir al evento y no sufrir las penalizaciones. |
 |  3.Registrarse  | ![Método UX](img/foto_10.png) | En el llevamos a cabo el registro del nuevo usuario cogiendo datos imprescindibles. |
-|  3.1.Premium  | ![Método UX](img/foto_11.png) | Se da la posibilidad del usuario de convertirse en un usuario premium durante el registro |
-|  3.2.Gratuito  | ![Método UX](img/foto_12.png) | La otra opción es que sea un usuario normal pero dentro de la aplicación puede hacerse premium. |
+|  3.1.Premium  |  | Se da la posibilidad del usuario de convertirse en un usuario premium durante el registro |
+|  3.2.Gratuito  |  | La otra opción es que sea un usuario normal pero dentro de la aplicación puede hacerse premium. |
 |  4.Iniciar Sesión  | ![Método UX](img/foto_13.png) | Tras meter los datos del nombre de cuenta y contraseña accederá a la aplicación.|
 |  5.Recordar contraseña  | ![Método UX](img/foto_14.png) | En caso de no recordar su contraseña podrá recuperarla rellenando un formulario. |
 |  6.Tendencias  | ![Método UX](img/foto_15.png) | La primera vez que accede a la aplicación le aparecerán grupos cercanos a su posición o con mayor popularidad  |
