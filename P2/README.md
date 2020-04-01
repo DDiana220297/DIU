@@ -67,6 +67,10 @@ La leyenda correspondiente a la jerarquía para diferenciar correctamente a quie
 
 ![Método UX](img/leyenda1.jpeg)
 
+Este el esquema principal de nuestra jerarquía.
+
+![Método UX](img/jerarquia_1.png)
+
 Empezamos por la jerarquía de la extensión de la aplicación.
 
 ![Método UX](img/jerarquia_2.png)
