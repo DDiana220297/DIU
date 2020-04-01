@@ -68,7 +68,7 @@ Continuamos con la jerarquía del cuerpo de la aplicación.
 
 ![Método UX](img/jerarquia_4.png)
 
-Por ultimo,terminamos con la jerarquía del pie de la aplicación
+Por ultimo,terminamos con la jerarquía del pie de la aplicación.
 
 ![Método UX](img/jerarquia_5.png)
 
