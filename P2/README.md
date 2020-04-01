@@ -118,3 +118,24 @@ Término | Icono | Significado
 - Wireframes:Bocetos de la interfaz.
 
 #### 1.Inicio sesión.
+![Método UX](img/teca1.png)
+#### 2.Primera vista del usuario al registrarse.
+![Método UX](img/teca2.png)
+#### 3.Vista de extensión.
+![Método UX](img/teca3.png)
+#### 4.buscador.
+![Método UX](img/teca4.png)
+#### 5.Cronología de actividades inscripto.
+![Método UX](img/teca5.png)
+#### 6.Cronología de grupos inscripto.
+![Método UX](img/teca6.png)
+#### 7.Vista de creación del grupo.
+![Método UX](img/teca7.png)
+#### 8.Vista de creación de la actividad.
+![Método UX](img/teca8.png)
+#### 9.Configuración.  
+![Método UX](img/teca9.png)
+#### 8.Vista del post actividad.
+![Método UX](img/teca10.png)
+#### 9.Vista del post grupo.  
+![Método UX](img/teca11.png)
