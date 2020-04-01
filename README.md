@@ -83,7 +83,7 @@ Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva123
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
-Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y luego luego poder analizar cada sector por separado.
+Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y  luego poder analizar cada sector por separado.
 
 ![Método UX](img/jerarquia_1.png)
 
@@ -93,8 +93,9 @@ Para ver los diagramas y su correspondiente explicación [pulse aquí](https://g
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.
 
+![Método UX](img/diagrama.png)
 
 ## Paso 3. Make (Prototyping)
 
