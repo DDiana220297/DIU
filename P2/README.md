@@ -97,6 +97,6 @@ Término | Icono | Significado
 |  8.5.Ayuda y soporte  | ![Método UX](img/foto_37.png) | Si tienes algún problemas aquí encontrarás información útil para solucionarlo. |
 |  8.5.1.Chat de ayuda  | ![Método UX](img/foto_38.png) | Chat interactivo donde podrás preguntar a un asistente virtual temas que están predefinidos. |
 |  8.5.2.Formulario de sugerencias  | ![Método UX](img/foto_39.png) | Formulario que puede ser rellenado para hacer llegar cualquier posible error en la web a los desarrolladores. |
-|  8.6.Modo nocturno  | ![Método UX](img/foto_1.png) | Para comodidad del usuario se le da opción de usar el modo oscuro. |
+|  8.6.Modo nocturno  | ![Método UX](img/foto_40.png) | Para comodidad del usuario se le da opción de usar el modo oscuro. |
 
 - Wireframes:Bocetos de la interfaz.
