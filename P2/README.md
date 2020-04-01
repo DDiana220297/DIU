@@ -51,13 +51,14 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 | Consultar dinero.              | Bajo            |  Bajo                |     Bajo        | Bajo               | NO                       | 4        |
 | Poner Promoción.               | NO              |  NO                  |     Medio       | Medio              | NO                       | 4        |
 | Consultar ayuda.               | Bajo            |  Bajo                |     Bajo        | Bajo               | NO                       | 4        |
+| Iniciar Sesión.                | Bajo            |  Bajo                |     Bajo        | Bajo               | NO                       | 3        |
 | Baja de grupo.                 | Bajo            |  Bajo                |     NO          | NO                 | NO                       | 2        |
 | Dejar de asistir.              | Bajo            |  Bajo                |     NO          | NO                 | NO                       | 2        |
 | Quitar Promoción.              | NO              |  NO                  |     Bajo        | Bajo               | NO                       | 2        |   
 | Validar establecimiento.       | NO              |  NO                  |     NO          | Bajo               | NO                       | 1        |
 | Hacerte Premium.               | Bajo            |  NO                  |     NO          | NO                 | NO                       | 1        |
-| Iniciar Sesión.                | Bajo            |  Bajo                |     Bajo        | Bajo               | NO                       | 3        |
 | Registrarse.                   | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
+| Introducir credenciales.       | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
 
 - Arquitectura De La Información.
 
