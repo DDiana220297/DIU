@@ -72,12 +72,6 @@ Por ultimo,terminamos con la jerarquía del pie de la aplicación.
 
 ![Método UX](img/jerarquia_5.png)
 
-
-
-
-
-
-
 Término | Icono | Significado
 | ------------- | ------- | ------- |
 |  1.Perfil   | ![Método UX](img/foto_1.png) | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
@@ -122,3 +116,5 @@ Término | Icono | Significado
 |  8.6.Modo nocturno  | ![Método UX](img/foto_40.png) | Para comodidad del usuario se le da opción de usar el modo oscuro. |
 
 - Wireframes:Bocetos de la interfaz.
+
+## 1.Inicio sesión.

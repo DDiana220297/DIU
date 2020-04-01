@@ -97,6 +97,8 @@ Para esta parte hemos desarrollado una serie de bocetos sobre las distintas part
 
 ![Método UX](img/diagrama.png)
 
+Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
+
 ## Paso 3. Make (Prototyping)
 
 
