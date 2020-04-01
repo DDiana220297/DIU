@@ -56,6 +56,28 @@
 
 - Labelling:Arquitectura De La Información.
 
+Empezamos por la jerarquía de la extensión de la aplicación.
+
+![Método UX](img/jerarquia_2.png)
+
+Seguimos con la jerarquía de la cabecera de la aplicación.
+
+![Método UX](img/jerarquia_3.png)
+
+Continuamos con la jerarquía del cuerpo de la aplicación.
+
+![Método UX](img/jerarquia_4.png)
+
+Por ultimo,terminamos con la jerarquía del pie de la aplicación
+
+![Método UX](img/jerarquia_5.png)
+
+
+
+
+
+
+
 Término | Icono | Significado
 | ------------- | ------- | ------- |
 |  1.Perfil   | ![Método UX](img/foto_1.png) | Hace referencia a los datos del usuario:Correo de app,nombre usuario,foto de perfil,ciudad,actividades realizadas,grupos pertenecientes,fotos compartidas,post publicados,nivel de idioma y idiomas. |
