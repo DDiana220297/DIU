@@ -67,18 +67,18 @@ Término | Icono | Significado
 |  1.1.Asistir actividad  | 1 | Si el post es de una actividad nueva, puedes inscribirte mientras haya plazas. |
 |  2.Actividades  | 2 | Aparecen los eventos a los que has indicado que asistirás para ver las novedades que surjan en este. |
 |  2.1.Anular actividad  | 1 | Opción disponible si ya no le interesa asistir al evento y no sufrir las penalizaciones. |
-|  3.Registrarse  | 2 | lo que signifique |
-|  3.1.Premium  | 1 | lo que signifique |
-|  3.2.Gratuito  | 2 | lo que signifique |
-|  4.Iniciar Sesión  | 2 | lo que signifique |
-|  5.Recordar contraseña  | 2 | lo que signifique |
-|  6.Tendencias  | 2 | lo que signifique |
-|  1.Chat  | 2 | lo que signifique |
-|  1.1.Chat general de grupo | 2 | lo que signifique |
-|  1.2.Chat de evento | 2 | lo que signifique |
-|  2.Crear grupo o actividad  | 2 | lo que signifique |
-|  2.1.Crear grupo  | 2 | lo que signifique |
-|  2.2.Crear actividad  | 2 | lo que signifique |
+|  3.Registrarse  | 2 | En el llevamos a cabo el registro del nuevo usuario cogiendo datos imprescindibles. |
+|  3.1.Premium  | 1 | Se da la posibilidad del usuario de convertirse en un usuario premium durante el registro |
+|  3.2.Gratuito  | 2 | La otra opción es que sea un usuario normal pero dentro de la aplicación puede hacerse premium. |
+|  4.Iniciar Sesión  | 2 | Tras meter los datos del nombre de cuenta y contraseña accederá a la aplicación.|
+|  5.Recordar contraseña  | 2 | En caso de no recordar su contraseña podrá recuperarla rellenando un formulario. |
+|  6.Tendencias  | 2 | La primera vez que accede a la aplicación le aparecerán grupos cercanos a su posición o con mayor popularidad  |
+|  1.Chat  | 2 | De grupo y específicos de evento para tener contactos con aquellos integrantes. |
+|  1.1.Chat general de grupo | 2 | Chat que solo tiene acceso los integrantes del grupo, para hablar de la realización de nuevas actividades o discusiones. |
+|  1.2.Chat de evento | 2 | Chat temporal y exclusivo por el cual pueden hablar los que están inscritos, para hablar cosas específicas de los asistentes. Tras esta actividad, será eliminado en un periodo de tiempo. |
+|  2.Crear grupo o actividad  | 2 | Se accede a los diferentes formularios para la creación del grupo o actividad. |
+|  2.1.Crear grupo  | 2 | Se crea un grupo donde se describirá de forma breve su propósito,los idiomas que se van a usar ,el nivel linguístico y si está destinado a ser un grupo público o exclusivo. |
+|  2.2.Crear actividad  | 2 | Se crea la actividad de un grupo donde se dará un pequeña explicación de la competencia linguística,fotos,lugar del establecimiento,fecha y hora y el precio de la asistencia.|
 |  3.Calendario  | 2 | Se accede a un calendario personal donde veremos nuestros eventos en el calendario. |
 |  4.Buscador  | 2 | Se accede a un apartado de búsqueda por donde se le proporcionará lo solicitado en función de los parámetros seleccionados:Elegir entre si se está buscando: GRUPO o ACTIVIDAD,Periodo de tiempo: Periodo en el que quiere los resultados de la búsqueda,Lugar: seleccionar las distintas ciudades que quieres que le muestre los resultados,Opción para ver los grupos cerrados y premium,Idiomas de interes,nivel de competencia lingüística.|
 |  5.Notificaciones  | 2 | Novedades en el sitio, novedades en la aplicación, perfil, aviso de notificaciones personalizadas. |
