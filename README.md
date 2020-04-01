@@ -83,9 +83,11 @@ Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva123
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | ![Método UX](img/labelling.png)
+Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y luego luego poder analizar cada sector por separado.
+
+
+
+Para ver los diagramas y su correspondiente explicación [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
