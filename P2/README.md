@@ -61,7 +61,9 @@ Las ideas vamos a implementar, es que queremos que los grupos prevalezcan en el 
 | Iniciar Sesión.                | Bajo            |  Bajo                |     Bajo        | Bajo               | NO                       | 3        |
 | Registrarse.                   | NO              |  NO                  |     NO          | NO                 | Bajo                     | 1        |
 
-- Labelling:Arquitectura De La Información.
+- Arquitectura De La Información.
+
+#### Sitemap​
 
 La leyenda correspondiente a la jerarquía para diferenciar correctamente a quien corresponde las funcionalidades.
 
@@ -86,6 +88,8 @@ Continuamos con la jerarquía del cuerpo de la aplicación.
 Por ultimo,terminamos con la jerarquía del pie de la aplicación.
 
 ![Método UX](img/jerarquia_5.png)
+
+#### labelling
 
 Término | Icono | Significado
 | ------------- | ------- | ------- |
