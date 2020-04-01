@@ -73,12 +73,30 @@ Término | Icono | Significado
 |  4.Iniciar Sesión  | 2 | lo que signifique |
 |  5.Recordar contraseña  | 2 | lo que signifique |
 |  6.Tendencias  | 2 | lo que signifique |
-|  1.Gratuito  | 2 | lo que signifique |
-
-
-
-
-
+|  1.Chat  | 2 | lo que signifique |
+|  1.1.Chat general de grupo | 2 | lo que signifique |
+|  1.2.Chat de evento | 2 | lo que signifique |
+|  2.Crear grupo o actividad  | 2 | lo que signifique |
+|  2.1.Crear grupo  | 2 | lo que signifique |
+|  2.2.Crear actividad  | 2 | lo que signifique |
+|  3.Calendario  | 2 | lo que signifique |
+|  4.Buscador  | 2 | lo que signifique |
+|  5.Notificaciones  | 2 | lo que signifique |
+|  1.Hazte premium  | 2 | lo que signifique |
+|  2.Para premium | 2 | lo que signifique |
+|  3.Promociones  | 2 | lo que signifique |
+|  4.Mis promociones  | 2 | lo que signifique |
+|  5.Establecimientos  | 2 | lo que signifique |
+|  6.Mis establecimientos  | 2 | lo que signifique |
+|  7.Monedero  | 2 | lo que signifique |
+|  8.Ajustes  | 2 | lo que signifique |
+|  8.1.Idioma  | 2 | lo que signifique |
+|  8.2.Acerca de  | 2 | lo que signifique |
+|  8.3.Privacidad  | 2 | lo que signifique |
+|  8.4.Cerrar sesión  | 2 | lo que signifique |
+|  8.5.Ayuda y soporte  | 2 | lo que signifique |
+|  8.5.1.Chat de ayuda  | 2 | lo que signifique |
+|  8.5.2.Formulario de sugerencias  | 2 | lo que signifique |
 
 
 - Wireframes:Bocetos de la interfaz.
