@@ -5,7 +5,7 @@ Grupo: DIU3.Learning.  Curso: 2019/20
 
 Proyecto:
 
-Descripción:
+Descripción:La aplicación móvil a desarrollar trata de una plataforma que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad.
 
 Logotipo:
 
@@ -19,17 +19,12 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online.En general la web cumple su función, tiene fallos que hace que la persona se canse rápido, y la estética de la interfaz tampoco es la mas adecuada. Es facil de usar, intuitivo y cómodo, el echo de encontrar eventos y crearlos es bastante facil.
-
-
 # Proceso de Diseño
 
 ## Paso 1. UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> El caso de economía colaborativa dentro de la experiencia de ocio que vamos a estudiar hace referencia a los idiomas.He encontrado una serie de plataformas que se ajustan a lo que se está buscando.
 
 >>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
@@ -93,7 +88,7 @@ Para ver los diagramas y su correspondiente explicación [pulse aquí](https://g
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.
+Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.Esta aplicación se ha diseñado de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.
 
 ![Método UX](img/diagrama.png)
 
