@@ -126,7 +126,7 @@ Decisiones sobre la iconografía:
 
 Término | Icono | Nuevo
 | ------------- | ------- | ------- |
-|  Ayuda y soporte  | ![Método UX](img/foto_37.png) |  |
+|  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
 |  Crear grupo o actividad  | ![Método UX](img/foto_19.png) |  |
 |  Idioma  | ![Método UX](img/foto_33.png) |  |
 |  Perfil   | ![Método UX](img/foto_1.png) |  |
