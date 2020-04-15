@@ -101,8 +101,18 @@ Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva123456
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.
+Mientras que nosotros en el desarrollo de nuestra aplicación partimos del análisis de la competencia para resolver  un nuevo desafío que es la economía colaborativa.Ellos han partido desde una pregunta o una preocupación social que son los artistas callejeros.
 
->>> Analizar lo aprendido de la experiencia MuseApp
+Otra cosa a observar, es que mientras que nosotros en el desarrollo de nuestra aplicación partimos del análisis de la competencia para resolver  un nuevo desafío que es la economía colaborativa, ellos han partido desde una pregunta o una preocupación social que son los artistas callejeros. Parten de la idea de una persona que ante la inaccesibilidad a información se hace preguntas sin respuesta para sacar ideas.
+
+También han llevado a cabo screener survey (Encuestas de selección) y cuando encuentran un perfil o grupo de interés se le cita para una entrevista. Mientras que nosotros solo hemos preguntado a los familiares o amigos cercanos, ellos han hecho más énfasis en la población en general, que conlleva más variedad de gente con gustos y experiencias y contextos distintos, dando más variedad de información.
+Gracias a que ellos parten de la experiencia del usuario el cual les ha permitido añadir más requisitos a la hora de realizar el análisis de competencias, teniendo encuesta mas puntos clave, mientras que nosotros partimos directamente de este, por lo que nuestro análisis no tiene en cuenta en este punto al usuario usuario, si no algo más general y enfocado al punto más del de desarrollador. Con este análisis lo que pretenden es sacar los puntos fuertes de esas aplicaciones, y de lo que carecen, para tenerlos en cuenta a la hora de su desarrollo.
+Mientras ellos han desarrollado un mapa de empatía nosotros lo hemos enfocado con una malla receptora de información.
+
+Otras cosas a destacar, es la evolución de los bocetos en el tiempo desde sketched wireframe  al mockup final. Y su análisis de de la guia de estilo donde comentan los paleta  de colores, tipografía y iconografía.
+
+
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -111,7 +121,51 @@ Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva123456
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----
+
+Decisiones sobre la iconografía:
+
+Término | Icono | Nuevo
+| ------------- | ------- | ------- |
+|  Acerca de  | ![Método UX](img/foto_34.png) |          |
+|  Actividades  | ![Método UX](img/foto_8.png) |  |
+|  Ajustes  | ![Método UX](img/foto_32.png) |  |
+|  Anular actividad  | ![Método UX](img/foto_9.png) |  |
+|  Asistir actividad  | ![Método UX](img/foto_7.png) |  |
+|  Ayuda y soporte  | ![Método UX](img/foto_37.png) |  |
+|  Buscador  | ![Método UX](img/foto_23.png) | |
+|  Correo   | ![Método UX](img/foto_2.png) |   |
+|  Calendario  | ![Método UX](img/foto_22.png) |  |
+|  Cerrar sesión  | ![Método UX](img/foto_36.png) |  |
+|  Chat  | ![Método UX](img/foto_16.png) | |
+|  Chat de evento |  |  |
+|  Chat de ayuda  |  |  |
+|  Chat general de grupo |  |  |
+|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) |  |
+|  Crear actividad  |  | |
+|  Crear grupo  |  |  |
+|  Establecimientos  | ![Método UX](img/foto_29.png) |  |
+|  Extensión panel lateral  | ![Método UX](img/foto_5.png) |  |
+|  Formulario de sugerencias  |  |  |
+|  Grupos  | ![Método UX](img/foto_6.png) | |
+|  Hazte premium  | ![Método UX](img/foto_25.png) |  |
+|  Gratuito  |  |  |
+|  Idioma  | ![Método UX](img/foto_33.png) |  |
+|  Iniciar Sesión  | ![Método UX](img/foto_13.png) | |
+|  Lista mensajes  |  |                      |
+|  Mis establecimientos  | ![Método UX](img/foto_30.png) | |
+|  Mis promociones  | ![Método UX](img/foto_28.png) |  |
+|  Modo nocturno  | ![Método UX](img/foto_40.png) |  |
+|  Monedero  | ![Método UX](img/foto_31.png) |  |
+|  Notificaciones  | ![Método UX](img/foto_24.png) |  |
+|  Para premium | ![Método UX](img/foto_26.png) |  |
+|  Perfil   | ![Método UX](img/foto_1.png) |  |
+|  Privacidad  | ![Método UX](img/foto_35.png) | |
+|  Premium  |  |  |
+|  Promociones  | ![Método UX](img/foto_27.png) |  |
+|  Recordar contraseña  | ![Método UX](img/foto_14.png) |  |
+|  Registrarse  | ![Método UX](img/foto_10.png) |  |
+|  Tendencias  | ![Método UX](img/foto_15.png) |   |
+
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
