@@ -126,45 +126,11 @@ Decisiones sobre la iconografía:
 
 Término | Icono | Nuevo
 | ------------- | ------- | ------- |
-|  Acerca de  | ![Método UX](img/foto_34.png) |          |
-|  Actividades  | ![Método UX](img/foto_8.png) |  |
-|  Ajustes  | ![Método UX](img/foto_32.png) |  |
-|  Anular actividad  | ![Método UX](img/foto_9.png) |  |
-|  Asistir actividad  | ![Método UX](img/foto_7.png) |  |
 |  Ayuda y soporte  | ![Método UX](img/foto_37.png) |  |
-|  Buscador  | ![Método UX](img/foto_23.png) | |
-|  Correo   | ![Método UX](img/foto_2.png) |   |
-|  Calendario  | ![Método UX](img/foto_22.png) |  |
-|  Cerrar sesión  | ![Método UX](img/foto_36.png) |  |
-|  Chat  | ![Método UX](img/foto_16.png) | |
-|  Chat de evento |  |  |
-|  Chat de ayuda  |  |  |
-|  Chat general de grupo |  |  |
 |  Crear grupo o actividad  | ![Método UX](img/foto_19.png) |  |
-|  Crear actividad  |  | |
-|  Crear grupo  |  |  |
-|  Establecimientos  | ![Método UX](img/foto_29.png) |  |
-|  Extensión panel lateral  | ![Método UX](img/foto_5.png) |  |
-|  Formulario de sugerencias  |  |  |
-|  Grupos  | ![Método UX](img/foto_6.png) | |
-|  Hazte premium  | ![Método UX](img/foto_25.png) |  |
-|  Gratuito  |  |  |
 |  Idioma  | ![Método UX](img/foto_33.png) |  |
-|  Iniciar Sesión  | ![Método UX](img/foto_13.png) | |
-|  Lista mensajes  |  |                      |
-|  Mis establecimientos  | ![Método UX](img/foto_30.png) | |
-|  Mis promociones  | ![Método UX](img/foto_28.png) |  |
-|  Modo nocturno  | ![Método UX](img/foto_40.png) |  |
-|  Monedero  | ![Método UX](img/foto_31.png) |  |
-|  Notificaciones  | ![Método UX](img/foto_24.png) |  |
-|  Para premium | ![Método UX](img/foto_26.png) |  |
 |  Perfil   | ![Método UX](img/foto_1.png) |  |
-|  Privacidad  | ![Método UX](img/foto_35.png) | |
-|  Premium  |  |  |
-|  Promociones  | ![Método UX](img/foto_27.png) |  |
-|  Recordar contraseña  | ![Método UX](img/foto_14.png) |  |
-|  Registrarse  | ![Método UX](img/foto_10.png) |  |
-|  Tendencias  | ![Método UX](img/foto_15.png) |   |
+
 
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
