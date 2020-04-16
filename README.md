@@ -117,15 +117,12 @@ Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva123456
 
 Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.En esta parte hacemos una reflexión de los aspectos más importantes que hemos visto en en el desarrollo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) como la idea de hacer encuestas y posteriormente hacer entrevistas y demás ideas originales.
 
-Para ver la reflexión[pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+Para ver la reflexión [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
-----
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-El logotipo final entre los seleccionados es :
+El logotipo final para este proyecto se ha elegido el siguiente:
 
 ![Método UX](img/fotologo.png)
 
