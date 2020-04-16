@@ -7,7 +7,7 @@ Proyecto:Incontro.
 
 Descripción:Incontro es una una aplicación móvil a desarrollar que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad.
 
-Las ideas vamos a implementar:
+Las ideas vamos a diseñar:
 
     -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes.
 
@@ -71,7 +71,7 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
-## Paso 2.Incontro UX Design 
+## Paso 2.Incontro UX Design
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
@@ -131,8 +131,15 @@ Otras cosas a destacar, es la evolución de los bocetos en el tiempo desde sketc
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+El logotipo final entre los seleccionados es :
+
+![Método UX](img/fotologo.png)
+
+Para más informacion [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 
