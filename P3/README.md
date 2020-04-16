@@ -65,6 +65,8 @@ Crearán un ambiente cálido y acogedor.
 
 Decisiones sobre la iconografía:
 
+Algunos iconos de los bocetos han sido sustituidos por otros para mantener una concordancia con el resto.
+
 Término | Icono | Nuevo
 | ------------- | ------- | ------- |
 |  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
