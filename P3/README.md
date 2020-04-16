@@ -19,17 +19,19 @@ El logotipo final para este proyecto se ha elegido el siguiente:
 
 ![Método UX](img/fotologo.png)
 
-Para ello buscamos información sobre [consejos](https://www.arturogarcia.com/consejos-para-disenar-un-logotipo/)  y [páginas para su creación](https://www.tailorbrands.com/es/logo-maker)
+Para ello buscamos información sobre [consejos](https://www.arturogarcia.com/consejos-para-disenar-un-logotipo/)  y [páginas para su creación](https://www.tailorbrands.com/es/logo-maker).En esta ultima nos dio la idea de añadir un eslogan aunque no se ha llevado a cabo.
+
+
 
 
 Entre los candidatos seleccionados podemos encontrar:
 
-Término | Icono | Nuevo
-| ------------- | ------- | ------- |
-|  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
-|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) | ![Método UX](img/fotonueva4.png)  |
-|  Idioma  | ![Método UX](img/foto_33.png) | ![Método UX](img/fotonueva3.png)  |
-|  Perfil   | ![Método UX](img/foto_1.png) | ![Método UX](img/fotonueva2.png)  |
+Término  | Icono                          |
+| ------------- | -------        |
+|  Búho  | ![Método UX](img/fotologo.png) |
+|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) |
+|  Idioma  | ![Método UX](img/foto_33.png) |
+|  Perfil   | ![Método UX](img/foto_1.png) |
 
 
 
