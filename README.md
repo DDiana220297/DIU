@@ -71,7 +71,7 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
-## Paso 2. UX Design de Incontro
+## Paso 2.Incontro UX Design 
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
