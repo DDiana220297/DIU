@@ -7,6 +7,18 @@ Proyecto:Incontro.
 
 Descripción:Incontro es una una aplicación móvil a desarrollar que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad.
 
+Las ideas vamos a implementar:
+
+    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes. -Un calendario en el que podamos ver de forma mas visual las actividades inscritos.
+
+    -Implementación de bonos o promociones para los usuarios.
+
+    -Un modo premium que te libre de ciertos pagos y acceso a contenido exclusivo.
+
+    -Un monedero para llevar un control de tus gastos.
+
+    -Un modo oscuro.
+
 Logotipo:![Método UX](img/fotologo.png)
 
 Miembros
@@ -41,9 +53,9 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).
+>>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de la dificultad de cambiar de idioma.
 
->>> [Encuentro por sorpresa con su ex](https://github.com/salva12345678/DIU/tree/master/P1).
+>>> [Encuentro por sorpresa de Noelia con su ex](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de tener tu pública.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -51,13 +63,13 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 >>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final:64
+>>> - Valoración final de Meetup:64
 >>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
 
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
 
-## Paso 2. UX Design  
+## Paso 2. UX Design de Incontro
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
