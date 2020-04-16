@@ -12,7 +12,43 @@ Gracias a que ellos parten de la experiencia del usuario el cual les ha permitid
 Otras cosas a destacar, es la evolución de los bocetos en el tiempo desde sketched wireframe  al mockup final. Y su análisis de de la guia de estilo donde comentan los paleta  de colores, tipografía y iconografía.
 
 
+
+## Logotipo
+
+
+
+
+
 ## Propuesta de elementos de diseño o patrones a usar
+
+TIPOGRAFÍA
+Para facilitar la lectura vamos a optar por una tipografía como Open Sans.
+EJEMPLO de texto:
+****(es una imagen esta letras salva)
+
+PALETA COLOR
+No hablamos de leer textos o libros, sino de ser lógicos con la identidad de la marca. Por una parte, la gama cromática a escoger debería mostrar cualitativamente su personalidad. Calma, seriedad, profesionalidad, tecnología, entretenimiento son palabras que suelen ser adjudicadas a diferentes marcas y deberían poder representarse mediante una paleta de colores.
+
+Por ejemplo:
+Azul: tranquilidad, seguridad, confianza, sanidad, lealtad
+Naranja: coraje, simpatía, éxito
+Dorado: riqueza, sabiduría, prosperidad, tradicionalismo, valor
+
+Se recomienda no usar un máximo de 3 colores primarios y mantener siempre el equilibrio cromático.
+Usar los contrastes para resaltar aquellas cuestiones mas relevantes.
+Para poder organizar y determinar la cantidad de color en una app se recomienda usar una proporción de color en pantalla de 60-30-10.
+
+En nuestro caso hemos seleccionado la siguiente paleta de colores, ya que buscamos que la aplicación sea acogedora ya que se va a tratar de una aplicación que requiere contacto social, por lo que queremos transmitir una sensación acogedora.
+
+Decisiones sobre la iconografía:
+
+Término | Icono | Nuevo
+| ------------- | ------- | ------- |
+|  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
+|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) | ![Método UX](img/fotonueva4.png)  |
+|  Idioma  | ![Método UX](img/foto_33.png) | ![Método UX](img/fotonueva3.png)  |
+|  Perfil   | ![Método UX](img/foto_1.png) | ![Método UX](img/fotonueva2.png)  |
+
 
 
 ## Historia en Video del UX Case Study

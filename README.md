@@ -129,20 +129,13 @@ Para más informacion [pulse aquí](https://github.com/salva12345678/DIU/tree/ma
 
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+## ![Método UX](img/guidelines.png) 3.c Guidelines
 
-Decisiones sobre la iconografía:
+Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
+El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera desinstalársela.
 
-Término | Icono | Nuevo
-| ------------- | ------- | ------- |
-|  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
-|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) | ![Método UX](img/fotonueva4.png)  |
-|  Idioma  | ![Método UX](img/foto_33.png) | ![Método UX](img/fotonueva3.png)  |
-|  Perfil   | ![Método UX](img/foto_1.png) | ![Método UX](img/fotonueva2.png)  |
+Para más informacion [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
-
-
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
