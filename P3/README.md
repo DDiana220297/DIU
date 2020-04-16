@@ -37,11 +37,13 @@ Término  | Icono                          |
 ## Propuesta de elementos de diseño o patrones a usar
 
 Decisiones sobre la tipografía:
+
 Para facilitar la lectura vamos a optar por una tipografía como Open Sans.Un ejemplo de ellos serían estos:
 
 ![Método UX](img/open.png)
 
 Decisiones sobre la paleta de colores:
+
 No hablamos de leer textos o libros, sino de ser lógicos con la identidad de la marca. Por una parte, la gama cromática a escoger debería mostrar cualitativamente su personalidad. Calma, seriedad, profesionalidad, tecnología, entretenimiento son palabras que suelen ser adjudicadas a diferentes marcas y deberían poder representarse mediante una paleta de colores.
 
 Por ejemplo:
