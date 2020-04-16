@@ -115,17 +115,9 @@ Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva123456
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.
-Mientras que nosotros en el desarrollo de nuestra aplicación partimos del análisis de la competencia para resolver  un nuevo desafío que es la economía colaborativa.Ellos han partido desde una pregunta o una preocupación social que son los artistas callejeros.
+Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.En esta parte hacemos una reflexión de los aspectos más importantes que hemos visto en en el desarrollo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) como la idea de hacer encuestas y posteriormente hacer entrevistas y demás ideas originales.
 
-Otra cosa a observar, es que mientras que nosotros en el desarrollo de nuestra aplicación partimos del análisis de la competencia para resolver  un nuevo desafío que es la economía colaborativa, ellos han partido desde una pregunta o una preocupación social que son los artistas callejeros. Parten de la idea de una persona que ante la inaccesibilidad a información se hace preguntas sin respuesta para sacar ideas.
-
-También han llevado a cabo screener survey (Encuestas de selección) y cuando encuentran un perfil o grupo de interés se le cita para una entrevista. Mientras que nosotros solo hemos preguntado a los familiares o amigos cercanos, ellos han hecho más énfasis en la población en general, que conlleva más variedad de gente con gustos y experiencias y contextos distintos, dando más variedad de información.
-Gracias a que ellos parten de la experiencia del usuario el cual les ha permitido añadir más requisitos a la hora de realizar el análisis de competencias, teniendo encuesta mas puntos clave, mientras que nosotros partimos directamente de este, por lo que nuestro análisis no tiene en cuenta en este punto al usuario usuario, si no algo más general y enfocado al punto más del de desarrollador. Con este análisis lo que pretenden es sacar los puntos fuertes de esas aplicaciones, y de lo que carecen, para tenerlos en cuenta a la hora de su desarrollo.
-Mientras ellos han desarrollado un mapa de empatía nosotros lo hemos enfocado con una malla receptora de información.
-
-Otras cosas a destacar, es la evolución de los bocetos en el tiempo desde sketched wireframe  al mockup final. Y su análisis de de la guia de estilo donde comentan los paleta  de colores, tipografía y iconografía.
-
+Para ver la reflexión[pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
