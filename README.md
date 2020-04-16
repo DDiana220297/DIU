@@ -9,7 +9,9 @@ Descripción:Incontro es una una aplicación móvil a desarrollar que permite la
 
 Las ideas vamos a implementar:
 
-    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes. -Un calendario en el que podamos ver de forma mas visual las actividades inscritos.
+    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes.
+
+    -Un calendario en el que podamos ver de forma mas visual las actividades inscritos.
 
     -Implementación de bonos o promociones para los usuarios.
 
