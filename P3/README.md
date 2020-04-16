@@ -29,11 +29,11 @@ Entre los candidatos seleccionados podemos encontrar:
 Término  | Icono                          |
 | ------------- | -------        |
 |  Búho  | ![Método UX](img/fotologo.png) |
-|  Crear grupo o actividad  | ![Método UX](img/logotipo2.png) |
-|  Idioma  | ![Método UX](img/logotipo3.png) |
-|  Perfil   | ![Método UX](img/logotipo4.png) |
-|  Perfil   | ![Método UX](img/logotipo5.png) |
-|  Perfil   | ![Método UX](img/logotipo6.png) |
+|  Abstracto modelo 1 | ![Método UX](img/logotipo2.png) |
+|  Abstracto modelo 2 | ![Método UX](img/logotipo3.png) |
+|  Abstracto modelo 3  | ![Método UX](img/logotipo4.png) |
+|  Cafetería modelo 1  | ![Método UX](img/logotipo5.png) |
+|  Cafetería modelo 2   | ![Método UX](img/logotipo6.png) |
 
 
 
