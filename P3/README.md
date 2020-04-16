@@ -15,7 +15,21 @@ Otras cosas a destacar, es la evolución de los bocetos en el tiempo desde sketc
 
 ## Logotipo
 
+El logotipo final para este proyecto se ha elegido el siguiente:
 
+![Método UX](img/fotologo.png)
+
+Para ello buscamos información sobre [consejos](https://www.arturogarcia.com/consejos-para-disenar-un-logotipo/)  y [páginas para su creación](https://www.tailorbrands.com/es/logo-maker)
+
+
+Entre los candidatos seleccionados podemos encontrar:
+
+Término | Icono | Nuevo
+| ------------- | ------- | ------- |
+|  Ayuda y soporte  | ![Método UX](img/foto_37.png) | ![Método UX](img/fotonueva1.png) |
+|  Crear grupo o actividad  | ![Método UX](img/foto_19.png) | ![Método UX](img/fotonueva4.png)  |
+|  Idioma  | ![Método UX](img/foto_33.png) | ![Método UX](img/fotonueva3.png)  |
+|  Perfil   | ![Método UX](img/foto_1.png) | ![Método UX](img/fotonueva2.png)  |
 
 
 
@@ -39,6 +53,12 @@ Usar los contrastes para resaltar aquellas cuestiones mas relevantes.
 Para poder organizar y determinar la cantidad de color en una app se recomienda usar una proporción de color en pantalla de 60-30-10.
 
 En nuestro caso hemos seleccionado la siguiente paleta de colores, ya que buscamos que la aplicación sea acogedora ya que se va a tratar de una aplicación que requiere contacto social, por lo que queremos transmitir una sensación acogedora.
+
+Esta combinación viva de tonos cálidos y fríos se ve espectacular y contrastante.
+El aguamarina, el celeste, el naranja y el amarillo crean una gama de colores naturales.
+ Crearán un ambiente cálido y acogedor.
+****(EL GIF SI QUIERES NO LO METAS)
+
 
 Decisiones sobre la iconografía:
 
