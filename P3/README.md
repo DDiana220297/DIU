@@ -21,9 +21,6 @@ El logotipo final para este proyecto se ha elegido el siguiente:
 
 Para ello buscamos información sobre [consejos](https://www.arturogarcia.com/consejos-para-disenar-un-logotipo/)  y [páginas para su creación](https://www.tailorbrands.com/es/logo-maker).En esta ultima nos dio la idea de añadir un eslogan aunque no se ha llevado a cabo.
 
-
-
-
 Entre los candidatos seleccionados podemos encontrar:
 
 Término  | Icono                          |
@@ -39,12 +36,12 @@ Término  | Icono                          |
 
 ## Propuesta de elementos de diseño o patrones a usar
 
-TIPOGRAFÍA
-Para facilitar la lectura vamos a optar por una tipografía como Open Sans.
-EJEMPLO de texto:
-****(es una imagen esta letras salva)
+Decisiones sobre la tipografía:
+Para facilitar la lectura vamos a optar por una tipografía como Open Sans.Un ejemplo de ellos serían estos:
 
-PALETA COLOR
+![Método UX](img/open.png)
+
+Decisiones sobre la paleta de colores:
 No hablamos de leer textos o libros, sino de ser lógicos con la identidad de la marca. Por una parte, la gama cromática a escoger debería mostrar cualitativamente su personalidad. Calma, seriedad, profesionalidad, tecnología, entretenimiento son palabras que suelen ser adjudicadas a diferentes marcas y deberían poder representarse mediante una paleta de colores.
 
 Por ejemplo:
@@ -60,9 +57,9 @@ En nuestro caso hemos seleccionado la siguiente paleta de colores, ya que buscam
 
 Esta combinación viva de tonos cálidos y fríos se ve espectacular y contrastante.
 El aguamarina, el celeste, el naranja y el amarillo crean una gama de colores naturales.
- Crearán un ambiente cálido y acogedor.
-****(EL GIF SI QUIERES NO LO METAS)
+Crearán un ambiente cálido y acogedor.
 
+![Método UX](img/paleta.png)
 
 Decisiones sobre la iconografía:
 
