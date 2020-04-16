@@ -111,7 +111,6 @@ Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva123456
 
 ## Paso 3. Mi equipo UX-Case Study
 
-
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
@@ -120,7 +119,7 @@ Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciend
 Para ver la reflexión [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](img/landing-page.png) 3.b Logotipo
 
 El logotipo final para este proyecto se ha elegido el siguiente:
 
