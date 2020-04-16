@@ -55,7 +55,7 @@ Para más información sobre las otras plataformas  en el Análisis de la Compet
 
 >>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de la dificultad de cambiar de idioma.
 
->>> [Encuentro por sorpresa de Noelia con su ex](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de tener tu pública.
+>>> [Encuentro por sorpresa de Noelia con su ex](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de tener tu cuenta en modo público.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
