@@ -78,5 +78,9 @@ Término | Icono | Nuevo
 
 ## Historia en Video del UX Case Study
 
+Para poder ver el video de promoción del diseño [pulse aquí](https://www.youtube.com/watch?v=p6QHk09v6gM&feature=youtu.be)
 
-## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+Hacer estas prácticas nos ha cambiado la visión de cómo comenzar un proyecto en el que antes nos hubiéramos lanzado a escribir código en Android Studio y hacer una aplicación sin tener en cuenta el producto final, y cómo afectaría este al usuario y que en el momento de terminar una beta del proyecto nos hubiéramos dado cuenta de que falta funcionalidad y que no es atractivo o cómodo para el usuario. La parte más difícil consideramos que ha sido ponernos en la piel de otros usuarios y que hemos encontrado otros puntos de vista para poder mejorar o añadir nuevas ideas al proyecto del diseño.Ahora mismo tendríamos más en cuenta al usuario haciendo encuestas sobre una idea y luego haciendo entrevistas entre los posibles grupos de personas que usarían la aplicación.También se ha aprendido muchas técnicas de diseño que verdaderamente son útiles en este momento y que no son técnicas desfasadas, mantener coherencia en diseño, funcionalidades principales destacadas sobre las demás, colocación en función de utilización.

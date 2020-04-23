@@ -125,23 +125,29 @@ El logotipo final para este proyecto se ha elegido el siguiente:
 
 ![Método UX](img/fotologo.png)
 
-Para más informacion [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
 
 ## ![Método UX](img/guidelines.png) 3.c Guidelines
 
 Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
-El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera desinstalársela.
+El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera eliminarla.
 
-Para más informacion [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
 ![Método UX](img/mockup.png)  3.d Video
-----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+
+
+![Método UX](img/mockup.png)  3.e Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+Reflexión de como nos ha influido positivamente las practicas y que nos ha ayudado a tener otra perspectiva sobre la experiencia de usuario.
+
+Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 ## Paso 4. Evaluación
 
