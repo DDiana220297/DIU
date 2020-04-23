@@ -137,13 +137,13 @@ El color debe usarse con moderación y seguir una lógica. Una app llena de colo
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
-![Método UX](img/mockup.png)  3.d Video
+## ![Método UX](img/mockup.png)  3.d Video
 
 
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
-![Método UX](img/mockup.png)  3.e Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+## ![Método UX](img/mockup.png)  3.e Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
 Reflexión de como nos ha influido positivamente las practicas y que nos ha ayudado a tener otra perspectiva sobre la experiencia de usuario.
 
