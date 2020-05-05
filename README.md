@@ -152,9 +152,9 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 ## Paso 4. Evaluación
 
 
-![Método UX](img/ABtesting.png) 4.a Casos asignados
+![Método UX](img/ABtesting.png)
 
-
+Los casos que se nos han asignado son los siguientes.
 
 |  Grupo de DIU | Grupo Asignado  | Link para ver su GitHub                                         |  
 |  ------------ | -------          | -------                                               |
@@ -162,7 +162,7 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 |  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
 |  DIU3         | Lutece           | [pulse aquí](https://github.com/IvanitiX/DIU20)       |                 
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
+Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
