@@ -153,10 +153,14 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 
 
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
 
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+
+|  Grupo de DIU | Grupo Asignado  | Link para ver su GitHub                                         |  
+|  ------------ | -------          | -------                                               |
+|  DIU1         | MMM              | [pulse aquí](https://github.com/patchispatch/DIU20)   |         
+|  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
+|  DIU3         | Lutece           | [pulse aquí](https://github.com/IvanitiX/DIU20)       |                 
 
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones
 
