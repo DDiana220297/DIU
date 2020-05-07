@@ -27,7 +27,7 @@ Los puntos débiles de la practica son:
 
 Grupo para describir y valorar [Mumavi](https://github.com/javiercdag/DIU20)
 
-Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado FHome.Una aplicación para buscar o compartir piso a través de tecnicas de inteligencia artificial.
+Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado FHome.Una aplicación para buscar o compartir piso a través de técnicas de inteligencia artificial.
 
 Los puntos fuertes de la practica son:
 
@@ -38,7 +38,7 @@ Los puntos débiles de la practica son:
 
 Grupo para describir y valorar [Lutece](https://github.com/IvanitiX/DIU20)
 
-Los chicos de Lutece ha diseñado un diseño UX basado en experiencias para compartir ocio​ llamado CountWithMe.
+Los chicos de Lutece ha diseñado un diseño UX basado en experiencias para compartir ocio​ llamado CountWithMe.Propuesta de aplicación de eventos basados en grupos afines a los intereses del usuario o en la creación de grupos; y en la creación y asistencia a eventos, con valoraciones y feedback sobre estos.
 
 Los puntos fuertes de la practica son:
 
