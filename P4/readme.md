@@ -52,12 +52,11 @@ Los puntos débiles de la practica son:
 
 	Describe la experiencia 2:
 
-
-
-
-
+	Noelia: Tras años su 2 hijas de independizan con sus parejas, por lo que Noelia se siente un poco sola. Tras unos meses unos amigos le sugieren que puede alquilar las habitaciones ya vacías de sus hijas. Ella al principio duda por meter a desconocidos, pero le puede las ganas de conseguir un dinerillo extra para su objetivo de abrir su propio centro veterinario. Mira varias aplicaciones y se decide por tal FHome , ya que le parece atractiva y tiene buenas valoraciones. Se Registra y demás y se encamina a publicar su anuncio. Pero se encuentra que no existe un método de búsqueda para ese tipo de oferta, por lo que decide abandonar la aplicación.
 
 	Describe la experiencia 3:
+
+	Manuel por fin encuentra un trabajo en Valencia ciudad, como no conoce a nadie quiere hacer nuevas amistades. Tras buscar encuentra la aplicación CountWithMe donde la gente puede asistir a quedadas. Echa un vistazo rápido y se apunta a una quedada para dentro de 1 semana. 2 días después, como él es aficionado al fútbol, se anima y crea un evento para echar un partido en dentro de 5 días. el evento es un éxito. llegado el día tan esperado, le llega una notificación del administrador enfadado por que no ha asistido a la quedada, ya que él pensaba que era al día siguiente, y el no podía ir por que tenia su evento de partido de futbol.
 
 
 ## Conclusiones
