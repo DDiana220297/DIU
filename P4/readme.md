@@ -11,15 +11,23 @@ Para ver la hoja de valoración [pulse aquí](https://github.com/javiercdag/DIU2
 
 Los puntos fuertes de la practica son:
 
+	Bocetos:
+	Logo:
+	Video:
+
+
 Los puntos débiles de la practica son:
+
+  Sitemap:
+	Labeling:
+	Estructura del readme:
 
 
 ## Caso 2
 
-
 Grupo para describir y valorar [Mumavi](https://github.com/javiercdag/DIU20)
 
-Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado MMM.
+Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado FHome.Una aplicación para buscar o compartir piso a través de tecnicas de inteligencia artificial.
 
 Los puntos fuertes de la practica son:
 
@@ -38,11 +46,18 @@ Los puntos débiles de la practica son:
 
 ## User Testing
 
-	Describe la experiencia 1
+	Describe la experiencia 1:
 
-	Describe la experiencia 2
+		Noelia quiere realizar un viaje por las playas de Italia, pero le gustaría tener un grupo de amigos con el que hacerlo para no sentirse sola, ya que no tiene con quien ir, entre las aplicaciones que ha visto recomendadas, a elegido “tal”. Organiza el viaje y lo publica, a los pocos días se encuentra con un grupo de 5 personas. Pero decide cancelar el viaje ya que los pagos no se realizan a través de la página, por lo que le crea una inseguridad de que vaya a recibirlos, ya que tiene que pagar los alojamientos etc, y no está segura de que estos usuarios les vaya a pagar.
 
-	Describe la experiencia 3
+	Describe la experiencia 2:
+
+
+
+
+
+
+	Describe la experiencia 3:
 
 
 ## Conclusiones
