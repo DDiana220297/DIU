@@ -12,15 +12,15 @@ Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/D
 Los puntos fuertes de la practica son:
 
 	Bocetos:Han entrado en detalle en los bocetos y lo han profundizado.
-	Logo:
-	Video:
+	Logo:Acorde a la paleta de colores. Diseño fácil de exportar a otros S.O.
+	Video:Contenido adecuado,buena visualización.
 
 
 Los puntos débiles de la practica son:
 
-	Labeling:
+	Labeling:Está describiendo elementos que aparecen pero no son funcionalidades. Los iconos deberían aparecer según su funcionalidad.La búsqueda no está especificado el tipo de búsqueda.
 	Sitemap:Tendría que ser estructurado en cabeza, cuerpo y pie.
-	Estructura del readme:
+	Estructura del readme:Necesita que se reestructure todo los ficheros y simplificando la información del readme principal.
 
 
 ## Caso 2
@@ -31,7 +31,15 @@ Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para comp
 
 Los puntos fuertes de la practica son:
 
+	Logotipo:Muy correcto, refleja lo que es la aplicación “buscar alojamiento”, con los colores de la paleta de la aplicación.  También lo han hecho para que se adapte a la distintas necesidades en otros entornos, como imagen circular o cuadrada, ademas de un banner si fuera necesario.
+	Video:Hacen una introducción correcta sobre la aplicación, ademas que detalla muy bien los elementos utilizados en las practicas. Las imágenes usadas de fondo adecuadas. Tiempo correcto. Contenido adecuado.
+	Personajes ficticios:Personajes bien desarrollado y las historias concuerdan con la realidad.
+
 Los puntos débiles de la practica son:
+
+	Tasks:Le faltan funcionalidades propias de una aplicación como alta y baja de usuarios,comentarios ,anunciantes . Hay algunas funcionalidades que no corresponde con el uso que se le da por ejemplo iniciar sesión. Aparece el anunciante pero no aparece el crear el crear anuncio y todo lo que conlleva crear el anuncio. No se especifica si el enunciante es un usuario normal o uno específico.
+	Propuesta:No desarrolla mucho las ideas ni profundiza en como se va a usar ni las implicaciones que va a tener.
+	Labeling:Una cosa que hace referencia en los objetivos es la búsqueda más profunda de pisos y en el labelling no viene detallada como se realiza. Se podría mejorar poniendo los iconos que hace referencia. Los distintos tipos de ayuda debería salir en el sitemap y salir desarrollado en el labelling por separado. En general ,falta desarrollar y especificar más los apartados.
 
 Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU2.Mumavi.xls)
 
@@ -44,7 +52,16 @@ Los chicos de Lutece ha diseñado un diseño UX basado en experiencias para comp
 
 Los puntos fuertes de la practica son:
 
+	Video:Muy atractivo ,buena entonación y presencia. Información concreta y sencillo.
+	Bocetos:Muestra la mayoría de las funcionalidades de forma extensa y detallada.
+	Competitive Analysis: Bastante claridad en las características de los comparados.
+
 Los puntos débiles de la practica son:
+
+	Feedback-capture-grid:No aparece los objetivos a desarrollar en el readme. Aparece dos veces el enlazado que te lleva al mismo sitio ,No ha quitado los comentarios del profesor.El apartado de preguntas aparecen elementos que no son adecuados. Como comentario general la matriz no corresponde con la que se nos facilitó(Ideas de desarrolladores ,propuestas de usuario ,criticas constructivas ,cosas a destacar).
+	Tasks:Falta una leyenda para entender que significa  L H M. No está ordenado de mayor uso a menor uso. No viene definido que es un usuario casual. Los tipos de usuarios no están bien definidos(Los dos usuarios no cumplen roles distintos).No aparece la analogía alta y baja en todos los apartados. No especifica los tipos de ayuda.
+	Site map:No está estructurado en los elementos pie,cabeza y cuerpo. No están diferenciado los dos roles en el sitemap. Faltaría una leyenda para saber que son las líneas continuas o discontínuas. Faltan funcionalidades .Las funcionalidades de publicitarse no están definidas en ningún apartado. La búsqueda no aparece  y era considerado un objetivo fundamental en su diseño. No aparecen los grupos como tal. No aparecen funcionalidades del task(Consultar notificaciones).
+
 
 Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU3.Lutece.xls)
 
@@ -64,3 +81,5 @@ Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/D
 
 
 ## Conclusiones
+
+	En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
