@@ -168,6 +168,12 @@ Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
+1.En Nomadizers, Noelia ha encontrado un problema en la no existencia de métodos de pago.
+
+2.En FHome, Noelia ha encontrado un problema en el que aquellas personas que solo quieren ofertar un habitación.
+
+3.En CountWithMe, Manuel encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
+
 Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
 
 
@@ -179,5 +185,7 @@ Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678
 |1       |  DIU2         | Mumavi           | 70           |
 |2       |  DIU3         | Lutece           | 65           |
 |3       |  DIU1         | MMM              | 56           |   
+
+En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
 
 Para ver la valoración personal [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)

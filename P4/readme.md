@@ -7,7 +7,7 @@ Grupo para describir y valorar [MMM](https://github.com/patchispatch/DIU20)
 
 Los chicos de Mmm ha diseñado un diseño UX basado en experiencias para compartir viaje llamado Nomadizers.La aplicación que nos propone no es solo una aplicación para hacer viajes en grupo sino una red para viajeros que nos es útil para conocer nuevos destinos y compartir nuevas experiencias.Ademas podrás apuntarte a viajes de otras personas ,publicar los tuyos y planificar escapadas con gente de tus mismo gustos , aficiones y la posibilidad de compartir tus experiencias y pensamientos con personas de tu alrededor.  
 
-Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU1.MMM.xls)
+A partir de la hoja de valoración tiene una puntuación de 56 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU1.MMM.xls)
 
 Los puntos fuertes de la practica son:
 
@@ -29,6 +29,9 @@ Grupo para describir y valorar [Mumavi](https://github.com/javiercdag/DIU20)
 
 Los chicos de Mumavi ha diseñado un diseño UX basado en experiencias para compartir alojamiento llamado FHome.Una aplicación para buscar o compartir piso a través de técnicas de inteligencia artificial.
 
+A partir de la hoja de valoración tiene una puntuación de 70 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU2.Mumavi.xls)
+
+
 Los puntos fuertes de la practica son:
 
 	Logotipo:Muy correcto, refleja lo que es la aplicación “buscar alojamiento”, con los colores de la paleta de la aplicación.  También lo han hecho para que se adapte a la distintas necesidades en otros entornos, como imagen circular o cuadrada, ademas de un banner si fuera necesario.
@@ -41,7 +44,7 @@ Los puntos débiles de la practica son:
 	Propuesta:No desarrolla mucho las ideas ni profundiza en como se va a usar ni las implicaciones que va a tener.
 	Labeling:Una cosa que hace referencia en los objetivos es la búsqueda más profunda de pisos y en el labelling no viene detallada como se realiza. Se podría mejorar poniendo los iconos que hace referencia. Los distintos tipos de ayuda debería salir en el sitemap y salir desarrollado en el labelling por separado. En general ,falta desarrollar y especificar más los apartados.
 
-Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU2.Mumavi.xls)
+
 
 
 ## Caso 3
@@ -63,22 +66,22 @@ Los puntos débiles de la practica son:
 	Site map:No está estructurado en los elementos pie,cabeza y cuerpo. No están diferenciado los dos roles en el sitemap. Faltaría una leyenda para saber que son las líneas continuas o discontínuas. Faltan funcionalidades .Las funcionalidades de publicitarse no están definidas en ningún apartado. La búsqueda no aparece  y era considerado un objetivo fundamental en su diseño. No aparecen los grupos como tal. No aparecen funcionalidades del task(Consultar notificaciones).
 
 
-Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU3.Lutece.xls)
+ A partir de la hoja de valoración tiene una puntuación de 65 puntos ,para visualizarla [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P4/DIU3.Lutece.xls)
 
 ## User Testing
 
 
-Noelia quiere realizar un viaje por las playas de Italia, pero le gustaría tener un grupo de amigos con el que hacerlo para no sentirse sola, ya que no tiene con quien ir, entre las aplicaciones que ha visto recomendadas, a elegido “tal”. Organiza el viaje y lo publica, a los pocos días se encuentra con un grupo de 5 personas. Pero decide cancelar el viaje ya que los pagos no se realizan a través de la página, por lo que le crea una inseguridad de que vaya a recibirlos, ya que tiene que pagar los alojamientos etc, y no está segura de que estos usuarios les vaya a pagar.
+**Noelia** quiere realizar un viaje por las playas de Italia, pero le gustaría tener un grupo de amigos con el que hacerlo para no sentirse sola, ya que no tiene con quien ir, entre las aplicaciones que ha visto recomendadas, a elegido **Nomadizers**. Organiza el viaje y lo publica, a los pocos días se encuentra con un grupo de 5 personas. Pero decide cancelar el viaje ya que los pagos no se realizan a través de la página, por lo que le crea una inseguridad de que vaya a recibirlos, ya que tiene que pagar los alojamientos etc, y no está segura de que estos usuarios les vaya a pagar.
 
 
 
-Noelia: Tras años su 2 hijas se independizan con sus parejas, por lo que Noelia se siente un poco sola. Tras unos meses unos amigos le sugieren que puede alquilar las habitaciones ya vacías de sus hijas. Ella al principio duda por meter a desconocidos, pero le puede las ganas de conseguir un dinerillo extra para su objetivo de abrir su propio centro veterinario. Mira varias aplicaciones y se decide por tal FHome , ya que le parece atractiva y tiene buenas valoraciones. Se Registra y demás y se encamina a publicar su anuncio. Pero se encuentra que no existe un método de búsqueda para ese tipo de oferta, por lo que decide abandonar la aplicación.
+**Noelia** Tras años su 2 hijas se independizan con sus parejas, por lo que Noelia se siente un poco sola. Tras unos meses unos amigos le sugieren que puede alquilar las habitaciones ya vacías de sus hijas. Ella al principio duda por meter a desconocidos, pero le puede las ganas de conseguir un dinerillo extra para su objetivo de abrir su propio centro veterinario. Mira varias aplicaciones y se decide por tal **FHome** , ya que le parece atractiva y tiene buenas valoraciones. Se Registra y demás y se encamina a publicar su anuncio. Pero se encuentra que no existe un método de búsqueda para ese tipo de oferta, por lo que decide abandonar la aplicación.
 
 
 
-Manuel por fin encuentra un trabajo en Valencia ciudad, como no conoce a nadie quiere hacer nuevas amistades. Tras buscar encuentra la aplicación CountWithMe donde la gente puede asistir a quedadas. Echa un vistazo rápido y se apunta a una quedada para dentro de 1 semana. 2 días después, como él es aficionado al fútbol, se anima y crea un evento para echar un partido en dentro de 5 días. el evento es un éxito. llegado el día tan esperado, le llega una notificación del administrador enfadado por que no ha asistido a la quedada, ya que él pensaba que era al día siguiente, y el no podía ir por que tenia su evento de partido de futbol.
+**Manuel** por fin encuentra un trabajo en Valencia ciudad, como no conoce a nadie quiere hacer nuevas amistades. Tras buscar encuentra la aplicación **CountWithMe** donde la gente puede asistir a quedadas. Echa un vistazo rápido y se apunta a una quedada para dentro de 1 semana. 2 días después, como él es aficionado al fútbol, se anima y crea un evento para echar un partido en dentro de 5 días. el evento es un éxito. llegado el día tan esperado, le llega una notificación del administrador enfadado por que no ha asistido a la quedada, ya que él pensaba que era al día siguiente, y el no podía ir por que tenia su evento de partido de futbol.
 
 
 ## Conclusiones
 
-En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
+Gracias a las criticas realizadas por la profesora a lo largo de todas las practicas ,nos ha ayudado a la hora de fijarnos en los errores que han cometido los distintos proyectos y como plantearles como mejorarlo.Hemos visto la importancia del site map y labelling a la hora de entender como está estructurado la aplicaciones ya que nos ha sido engorroso entender algunos de ellos.
