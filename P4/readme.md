@@ -18,7 +18,7 @@ Los puntos fuertes de la practica son:
 
 Los puntos débiles de la practica son:
 
-  Sitemap:Tendría que ser estructurado en cabeza, cuerpo y pie.
+  Sitemap: Tendría que ser estructurado en cabeza, cuerpo y pie.
 
 	Labeling:
 
