@@ -181,21 +181,3 @@ Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678
 |3       |  DIU1         | MMM              | 56           |   
 
 Para ver la valoración personal [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
