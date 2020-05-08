@@ -168,11 +168,11 @@ Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-1.En Nomadizers, Noelia ha encontrado un problema en la no existencia de métodos de pago.
+1.En **Nomadizers, Noelia** ha encontrado un problema en la no existencia de métodos de pago.
 
-2.En FHome, Noelia ha encontrado un problema en el que aquellas personas que solo quieren ofertar un habitación.
+2.En **FHome, Noelia** ha encontrado un problema en el que aquellas personas que solo quieren ofertar un habitación.
 
-3.En CountWithMe, Manuel encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
+3.En **CountWithMe, Manuel** encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
 
 Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
 
