@@ -67,19 +67,18 @@ Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/D
 
 ## User Testing
 
-	Describe la experiencia 1:
 
-	Noelia quiere realizar un viaje por las playas de Italia, pero le gustaría tener un grupo de amigos con el que hacerlo para no sentirse sola, ya que no tiene con quien ir, entre las aplicaciones que ha visto recomendadas, a elegido “tal”. Organiza el viaje y lo publica, a los pocos días se encuentra con un grupo de 5 personas. Pero decide cancelar el viaje ya que los pagos no se realizan a través de la página, por lo que le crea una inseguridad de que vaya a recibirlos, ya que tiene que pagar los alojamientos etc, y no está segura de que estos usuarios les vaya a pagar.
+Noelia quiere realizar un viaje por las playas de Italia, pero le gustaría tener un grupo de amigos con el que hacerlo para no sentirse sola, ya que no tiene con quien ir, entre las aplicaciones que ha visto recomendadas, a elegido “tal”. Organiza el viaje y lo publica, a los pocos días se encuentra con un grupo de 5 personas. Pero decide cancelar el viaje ya que los pagos no se realizan a través de la página, por lo que le crea una inseguridad de que vaya a recibirlos, ya que tiene que pagar los alojamientos etc, y no está segura de que estos usuarios les vaya a pagar.
 
-	Describe la experiencia 2:
 
-	Noelia: Tras años su 2 hijas se independizan con sus parejas, por lo que Noelia se siente un poco sola. Tras unos meses unos amigos le sugieren que puede alquilar las habitaciones ya vacías de sus hijas. Ella al principio duda por meter a desconocidos, pero le puede las ganas de conseguir un dinerillo extra para su objetivo de abrir su propio centro veterinario. Mira varias aplicaciones y se decide por tal FHome , ya que le parece atractiva y tiene buenas valoraciones. Se Registra y demás y se encamina a publicar su anuncio. Pero se encuentra que no existe un método de búsqueda para ese tipo de oferta, por lo que decide abandonar la aplicación.
 
-	Describe la experiencia 3:
+Noelia: Tras años su 2 hijas se independizan con sus parejas, por lo que Noelia se siente un poco sola. Tras unos meses unos amigos le sugieren que puede alquilar las habitaciones ya vacías de sus hijas. Ella al principio duda por meter a desconocidos, pero le puede las ganas de conseguir un dinerillo extra para su objetivo de abrir su propio centro veterinario. Mira varias aplicaciones y se decide por tal FHome , ya que le parece atractiva y tiene buenas valoraciones. Se Registra y demás y se encamina a publicar su anuncio. Pero se encuentra que no existe un método de búsqueda para ese tipo de oferta, por lo que decide abandonar la aplicación.
 
-	Manuel por fin encuentra un trabajo en Valencia ciudad, como no conoce a nadie quiere hacer nuevas amistades. Tras buscar encuentra la aplicación CountWithMe donde la gente puede asistir a quedadas. Echa un vistazo rápido y se apunta a una quedada para dentro de 1 semana. 2 días después, como él es aficionado al fútbol, se anima y crea un evento para echar un partido en dentro de 5 días. el evento es un éxito. llegado el día tan esperado, le llega una notificación del administrador enfadado por que no ha asistido a la quedada, ya que él pensaba que era al día siguiente, y el no podía ir por que tenia su evento de partido de futbol.
+
+
+Manuel por fin encuentra un trabajo en Valencia ciudad, como no conoce a nadie quiere hacer nuevas amistades. Tras buscar encuentra la aplicación CountWithMe donde la gente puede asistir a quedadas. Echa un vistazo rápido y se apunta a una quedada para dentro de 1 semana. 2 días después, como él es aficionado al fútbol, se anima y crea un evento para echar un partido en dentro de 5 días. el evento es un éxito. llegado el día tan esperado, le llega una notificación del administrador enfadado por que no ha asistido a la quedada, ya que él pensaba que era al día siguiente, y el no podía ir por que tenia su evento de partido de futbol.
 
 
 ## Conclusiones
 
-	En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
+En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
