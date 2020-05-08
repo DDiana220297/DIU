@@ -168,13 +168,11 @@ Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking
 ----
-
->>> Concluya con un ranking de los casos evaluados
 
 |Posición|  Grupo de DIU | Grupo Asignado   | Puntuación   |  
 |-----   |  ------------ | -------          | -------      |
@@ -182,7 +180,7 @@ Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/
 |2       |  DIU3         | Lutece           | 65           |
 |3       |  DIU1         | MMM              | 56           |   
 
->>> Valoración personal
+Para ver la valoración personal [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
 
 
 ## Paso 5. Evaluación de Accesibilidad  
