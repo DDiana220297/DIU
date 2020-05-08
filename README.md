@@ -156,7 +156,7 @@ Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/m
 
 Los casos que se nos han asignado son los siguientes.
 
-|  Grupo de DIU | Grupo Asignado  | Link para ver su GitHub                                         |  
+|  Grupo de DIU | Grupo Asignado   | Link para ver su GitHub                               |  
 |  ------------ | -------          | -------                                               |
 |  DIU1         | MMM              | [pulse aquí](https://github.com/patchispatch/DIU20)   |         
 |  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
@@ -175,6 +175,12 @@ Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/
 ----
 
 >>> Concluya con un ranking de los casos evaluados
+
+|Posición|  Grupo de DIU | Grupo Asignado   | Puntuación   |  
+|-----   |  ------------ | -------          | -------      |
+|1       |  DIU2         | Mumavi           | 70           |
+|2       |  DIU3         | Lutece           | 65           |
+|3       |  DIU1         | MMM              | 56           |   
 
 >>> Valoración personal
 
