@@ -11,17 +11,15 @@ Para ver la hoja de valoración [pulse aquí](https://github.com/salva12345678/D
 
 Los puntos fuertes de la practica son:
 
-	Bocetos: Han entrado en detalle en los bocetos y lo han profundizado.
+	Bocetos:Han entrado en detalle en los bocetos y lo han profundizado.
 	Logo:
 	Video:
 
 
 Los puntos débiles de la practica son:
 
-  Sitemap: Tendría que ser estructurado en cabeza, cuerpo y pie.
-
+  Sitemap:Tendría que ser estructurado en cabeza, cuerpo y pie.
 	Labeling:
-
 	Estructura del readme:
 
 
