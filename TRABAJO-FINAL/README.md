@@ -39,23 +39,16 @@ Qué es el concepto de **Coworking**: http://www.comunidadcoworking.es/que-es-co
 
 Tabla de comparativas:
 
-|EMPRESAS                        | ErrantT         | Cubikate
-| :------:                       | :------:        | :------: |  
-| Gratis                         | SI              |  SI      |     
-| Opción de pago                 | SI              |  NO      |    
-| Más de un idiomas              | SI              |  SI      |     
-| web                            | SI              |  SI      |
-| Android                        | SI              |  NO      |
-| iOS                            | SI              |  NO      |
-| Proximidad de interlocutores   | SI              |  NO      |  
-| Videoconferencia               | NO              |  SI      |  
-| Chat                           | SI              |  SI      |   
-| Herramientas lingüísticas      | NO              |  SI      | 
-
-
-
-
-
+|EMPRESAS                                | ErrantT         | Cubikate
+| :------:                               | :------:        | :------: |  
+| Lista de precios                     | SI              |  NO      |       
+| Más de un idioma                    | SI              |  NO      |     
+| web                                    | SI              |  SI      |
+| Android                        | NO              |  NO      |
+| iOS                            | NO              |  NO      |
+| Blog                           | SI              |  NO      |
+| Características básicas de la oficina                   |     SI            |    NO      |   
+| Vídeo promocional                        |   SI             |     NO            |
 Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
 Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
