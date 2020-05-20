@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU3.Learning.  Curso: 2019/20
 
-Proyecto:Incontro.
+Proyecto:Teamwork.
 
 Descripción:Incontro es una una aplicación móvil a desarrollar que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad.
 
