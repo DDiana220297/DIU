@@ -24,10 +24,9 @@ Miembros
  * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:        
 -----
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
+En esta practica teórica estudiaremos el concepto de coworking realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
 
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+Qué es el concepto de **Coworking**: http://www.comunidadcoworking.es/que-es-coworking/
 
 # Proceso de Diseño
 
