@@ -1,31 +1,27 @@
 # DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
+Teoría de Diseño Interfaces de Usuario 2019-20 (Coworking)
 
-Grupo: DIU3.Learning.  Curso: 2019/20
+Curso: 2019/20
 
 Proyecto:Teamwork.
 
-Descripción:Incontro es una una aplicación móvil a desarrollar que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras. La plataforma pondrá en contacto a las diferentes partes: Usuarios, profesionales y establecimientos, para una mayor facilidad de organización.Los usuarios tendrán la ventaja de poder realizar estas actividades a costo compartido.Los profesionales podrán obtener beneficio de impartir un trabajo en estás actividades.Los establecimientos podrán ofrecer a cambio de unos beneficios, consumo o lo que vea conveniente, sus establecimientos para la realización de la actividad.
+Descripción:Teamwork es una una aplicación móvil a desarrollar que te permite encontrar un espacio de trabajo donde puedas desarrollar tu actividad.La idea es que el usuario(ya sea autónomo,emprendedores,profesionales,freelance) tenga la máxima libertad de elegir donde quiere desarrollar su actividad sin tener el problema de estar estático por un tiempo y tenga la movilidad que quiera que busque.El usuario tendrá también la posibilidad de ver en tiempo real que tipo de ambiente ,de profesionales para poder estar rodeado de profesionales con diferentes capacidades, intereses y redes de contactos.Las oficinas o lugar(la idea es que no tiene por que ser una oficina)podrá poner sus normas con toda la libertad y de la forma más dinámica.
 
-Las ideas vamos a diseñar:
+Las ideas vamos a diseñar o redefinir de las páginas anteriores:
 
-    -Es que queremos que los grupos prevalezcan en el tiempo ya que queremos crear vínculos entre los integrantes.
+    -Tiempo real de la disponibilidad de las oficinas .
 
-    -Un calendario en el que podamos ver de forma mas visual las actividades inscritos.
+    -Buscar una mayor interacción entre los profesionales haciendo uso de herramientas de chat,correo,etc.
 
-    -Implementación de bonos o promociones para los usuarios.
-
-    -Un modo premium que te libre de ciertos pagos y acceso a contenido exclusivo.
+    -Promociones que sean establecidas por los lugares de trabajo .
 
     -Un monedero para llevar un control de tus gastos.
 
-    -Un modo oscuro.
 
-Logotipo:![Método UX](img/fotologo.png)
+Logotipo:![Método UX](img/logoFinal.png)
 
 Miembros
- * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:     
- * :bust_in_silhouette:   https://github.com/IgnacioMorillas/DIU_2019-2020     :octocat:   
+ * :bust_in_silhouette:   https://github.com/salva12345678/DIU     :octocat:        
 -----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist)
