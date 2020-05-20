@@ -49,6 +49,8 @@ Tabla de comparativas:
 | Blog                           | SI              |  NO      |
 | Características básicas de la oficina                   |     SI            |    NO      |   
 | Vídeo promocional                        |   SI             |     NO            |
+
+
 Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
 Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
