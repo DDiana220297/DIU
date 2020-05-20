@@ -35,7 +35,7 @@ Qué es el concepto de **Coworking**: http://www.comunidadcoworking.es/que-es-co
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Entre las aplicaciones y páginas web que hemos visto las que más se adaptan mejor a una experiencia de ocio son [Meetup-Language](https://www.meetup.com/es-ES/find/language/) y [Hi uTandem](https://www.facebook.com/Hiutandemapp/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
+>>> Entre las páginas web que hemos visto o que se nos ha proporcionado son  [ErrantT](https://www.errant.es/contacto/) y [Cubikate](https://cubikate.es/).Entre estas dos se ha elegido [Meetup-Language](https://www.meetup.com/es-ES/find/language/) dado que está disponible en Android y no muestra problemas "graves".
 
 Para más información sobre las otras plataformas  en el Análisis de la Competencia [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
 
