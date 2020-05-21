@@ -57,9 +57,9 @@ Entre estas dos se ha elegido [ErrantT](https://www.errant.es/contacto/) dado qu
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>>En primer lugar hemos creado a [Jose María](https://github.com/salva12345678/DIU/tree/master/P1),Una persona con amplias capacidades pero con poca iniciativa en el mundo de las redes sociales y en este sentido Manuel se plantea como un colectivo de la plataforma pues uno de sus retos ya sea por trabajo u ocio le hacen usar esta aplicación.
+>>>En primer lugar hemos creado a [Jose María](https://github.com/salva12345678/DIU/tree/master/P1),Una persona con amplias capacidades pero con pocos recursos.Tiene los parámetros perfectos para poder usar la página web.
 
-![foto1](jose.png)
+![foto1](img/jose.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
