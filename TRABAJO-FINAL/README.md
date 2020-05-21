@@ -65,9 +65,9 @@ Entre estas dos se ha elegido [ErrantT](https://www.errant.es/contacto/) dado qu
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> [El problema de Manuel con el ingles](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de la dificultad de cambiar de idioma.
+>>> **Jose Maria no llega a tiempo**.Aquí se nos presenta el problema de la disponibilidad de las oficinas.
 
->>> [Encuentro por sorpresa de Noelia con su ex](https://github.com/salva12345678/DIU/tree/master/P1).Aquí se nos presenta el problema de tener tu cuenta en modo público.
+![foto2](img/josehist.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

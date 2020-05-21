@@ -30,54 +30,54 @@ angular.module("angular", [])
                 /*************************************/
 
 				Id: 0,
-				Name: "Manuel Molina Muñoz",
-                Photo: "NIÑO1.jpeg",
+				Name: "Jose Maria Sevilla",
+                Photo: "niño111.jpeg",
 
                 /*** PASO #1: INSPIRACION ***/
-                goal1: "Buscar una alternativa para mejorar su ingles",
+                goal1: "Busca un estudio para poder empezar a trabajar",
                 touch1: "Amigo",
                 feel1: "3",
-                con1: "No tiene  dinero para pagarse una academia de idiomas.",
+                con1: "No tiene dinero para pagarse un estudio.",
                 ima1: "cartoon-speaking.png",
 
                 /*** PASO #2: DECICION ***/
-                goal2: "Busca en internet una página gratuita para aprender. ",
+                goal2: "Busca en internet varios estudios a buen precio. ",
                 touch2: "ordenador",
                 feel2: "4",
-                con2: "Hay demasiada información sobre demasiadas páginas web por lo que se decanta por la recomendación de su amigo.",
+                con2: "Hay demasiadas páginas web por lo que se decanta por la recomendación de su amigo.",
                 ima2: "cartoon-PChard.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Ver lo que oferta.",
+                goal3: "Ve lo que oferta la página.",
                 touch3: "Ordenador",
                 feel3: "3",
-                con3: "Encuentra la pagina y se registra, pero se le cambia el idioma y no encuentra el lugar donde cambiarlo.",
+                con3: "Encuentra la pagina que le indicaba su amigo pero al contactar no le responde al instante.",
                 ima3: "cartoon-PChappy.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: " Cambiar el idioma al español",
-                touch4: "Ordenador",
+                goal4: " Decide ir a las oficinas ",
+                touch4: "Movil",
                 feel4: "2",
-                con4: "Al no encontrar el idioma intenta buscar ayuda en la página web",
+                con4: "Cuando llega allí se da cuenta de que ya le han contestado ",
                 ima4: "cartoon-PCangry.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Pedir ayuda en el servicio técnico. ",
+                goal5: "Se informa en el mostrador ",
                 touch5: "Ordenador",
                 feel5: "1",
-                con5: "La página no dispone ni de un correo electrónico y solo hay un chat de ayuda que responde solo en ingles pasado un tiempo.",
+                con5: "La recepcionista le dice que todas las plazas están ocupadas .",
                 ima5: "cartoon-phoneAssistan.jpg",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Pedir ayuda a su amigo",
+                goal6: "Busca alguna alternativa",
                 touch6: "Ordenador",
                 feel6: "3",
-                con6: "Le pide ayuda a su amigo para que le cambie el idioma y le ayude a comprender la página",
+                con6: "La recepcionista le dice que tendrán plazas los dias siguientes.",
                 ima6: "cartoon-shaking.png",
 
 			},
