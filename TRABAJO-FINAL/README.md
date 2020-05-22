@@ -111,18 +111,17 @@ Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas
 
 |GRUPOS DE USUARIOS              | Usuario         | Establecimientos   | Usuarios no registrados  | Ranking  |
 | :------:                       | :------:        | :------:           |  :------:                | :------: |
-| Buscar.                        | Alto            | Alto               | NO                       | 12       |
-| Abonar Dinero.                 | Medio           | Alto               | NO                       | 10.5     |
+| Buscar.                        | Alto            | Alto               | NO                       | 10       |
 | Consultar Correo.              | Medio-Alto      | Alto               | NO                       | 10       |
 | Consultar chat.                | Alto            | Bajo               | NO                       | 10       |
 | Consultar oferta.              | Medio           | Alto               | NO                       | 10       |
 | Enviar Correo.                 | Bajo            | Alto               | NO                       | 8        |
 | Consultar Notificaciones.      | Medio           | Medio              | NO                       | 8        |
+| Abonar Dinero.                 | Medio           | Alto               | NO                       | 7.5      |
 | Consultar calendario.          | Medio           | Bajo               | NO                       | 7        |
 | Asistir Oficina.               | Alto            | NO                 | NO                       | 6        |
 | Alta en Oficina.               | Medio-Alto      | NO                 | NO                       | 5        |
 | Crear Oficina.                 | Bajo            | Bajo               | NO                       | 5        |
-| Borrar Oficina.                | Bajo            | Bajo               | NO                       | 4        |
 | Pasar a privado.               | Bajo            | Bajo               | NO                       | 4        |
 | Cambiar idioma.                | Bajo            | Bajo               | NO                       | 4        |
 | Poner modo nocturno.           | Bajo            | Bajo               | NO                       | 4        |
@@ -131,7 +130,8 @@ Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas
 | Consultar ayuda.               | Bajo            | Bajo               | NO                       | 4        |
 | Iniciar Sesión.                | Bajo            | Bajo               | NO                       | 3        |
 | Baja de oficina.               | Bajo            | NO                 | NO                       | 2        |
-| Quitar oferta.                 | NO              | Bajo               | NO                       | 2        |   
+| Quitar oferta.                 | NO              | Bajo               | NO                       | 2        |
+| Borrar Oficina.                | NO              | Bajo               | NO                       | 1        |   
 | Validar Oficina.               | NO              | Bajo               | NO                       | 1        |
 | Registrarse.                   | NO              | NO                 | Bajo                     | 1        |
 | Introducir credenciales.       | NO              | NO                 | Bajo                     | 1        |
@@ -139,100 +139,36 @@ Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
 
-Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y  luego poder analizar cada sector por separado.
-
-![Método UX](img/jerarquia_1.png)
-
-Para ver los diagramas y su correspondiente explicación [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
-
+Dado el tiempo dado para el desarrollo de la practica final no he podido llevar a cabo el Labelling.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Para esta parte hemos desarrollado una serie de bocetos sobre las distintas partes de la interfaz.Para tener una mayor organización y podamos entender el flujo que sigue se hará un diagrama de flujo de los bocetos.Esta aplicación se ha diseñado de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.
+Esta aplicación se ha diseñado de tal forma que se pueda llevar a cabo su implementación tanto en android o ios.En el caso que se llevara el desarrollo de los bocetos se centraría en la experiencia de usuario para poder visualizar las nuevas mecánicas y funcionalidades de la aplicación.
 
-![Método UX](img/diagrama.png)
-
-Para ver los bocetos de la interfaz [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
-
-
-## Paso 3. Mi equipo UX-Case Study
-
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-Es una aplicación cuyo objetivo es acercar a los artistas al público ofreciendo información sobre ellos y sus obras.En esta parte hacemos una reflexión de los aspectos más importantes que hemos visto en en el desarrollo de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) como la idea de hacer encuestas y posteriormente hacer entrevistas y demás ideas originales.
-
-Para ver la reflexión [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
-
-
-## ![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](img/landing-page.png)  3.b Logotipo
 
 El logotipo final para este proyecto se ha elegido el siguiente:
 
-![Método UX](img/fotologo.png)
-
-Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+![Método UX](img/logoFinal.png)
 
 
+![Método UX](img/guidelines.png) 3.c Guidelines
 
-## ![Método UX](img/guidelines.png) 3.c Guidelines
+Se trata de buscar elementos que facilitan legibilidad de la aplicación de forma que repercuten de forma positiva sobre nuestra aplicación de cara a los usuarios.
+Se busca el uso de 2 o 3 colores que definan a la aplicación y sus valores de la marca y bien estructurados.además de los colores será necesario un tipo de tipografía adecuada.
 
-Se trata de elementos que facilitan la usabilidad y legibilidad de la app y si están bien empleados repercutirán de forma positiva sobre nuestra app de cara al usuario.
-El color debe usarse con moderación y seguir una lógica. Una app llena de colores sin jerarquía, no tendrá el mismo efecto que una app con 2-3 colores que definen los valores de la marca y bien estructurados. Podríamos decir lo mismo de la elección tipográfica, no podemos esperar que la app atraiga a usuarios teniendo una sola tipografía sin diferenciar los títulos del texto, ni usando 3 tipografías antagónicas, ya que acabarían dificultando la lectura, lo que hará que el usuario ya no quiera usar la app o quiera eliminarla.
+tipografía usada:Helvética.
 
-Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
+![Método UX](img/tipofin.png)
 
+Colores usados:
 
-## ![Método UX](img/mockup.png)  3.d Video
-
+![Método UX](img/colorfin.png)
 
 Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
 
 
 ## ![Método UX](img/mockup.png)  3.e Conclusión final.
 
-Reflexión de como nos ha influido positivamente las practicas y que nos ha ayudado a tener otra perspectiva sobre la experiencia de usuario.
-
-Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
-
-## Paso 4. Evaluación
-
-
-![Método UX](img/ABtesting.png)
-
-Los casos que se nos han asignado son los siguientes.
-
-|  Grupo de DIU | Grupo Asignado   | Link para ver su GitHub                               |  
-|  ------------ | -------          | -------                                               |
-|  DIU1         | MMM              | [pulse aquí](https://github.com/patchispatch/DIU20)   |         
-|  DIU2         | Mumavi           | [pulse aquí](https://github.com/javiercdag/DIU20)     |                
-|  DIU3         | Lutece           | [pulse aquí](https://github.com/IvanitiX/DIU20)       |                 
-
-Para ver la valoración [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
-1.En **Nomadizers, Noelia** ha encontrado un problema en la no existencia de métodos de pago.
-
-2.En **FHome, Noelia** ha encontrado un problema en el que aquellas personas que solo quieren ofertar un habitación.
-
-3.En **CountWithMe, Manuel** encuentra un problema que le hace no asistir a un evento por falta de un recordatorio o calendario.
-
-Para ver las historias propuestas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
-
-
-![Método UX](img/Survey.png). 4.c Ranking
-----
-
-|Posición|  Grupo de DIU | Grupo Asignado   | Puntuación   |  
-|-----   |  ------------ | -------          | -------      |
-|1       |  DIU2         | Mumavi           | 70           |
-|2       |  DIU3         | Lutece           | 65           |
-|3       |  DIU1         | MMM              | 56           |   
-
-En general,los site map no siguen una estructura de cabeza ,cuerpo y pie para la aparición de las distintas funcionalidades,dichas funcionalidades aparecen incompletas, mal detallas .La Tasks matrix no concuerdan con lo aparecido en el site map  además de no aparecer las ideas destacadas .No se diferencian los roles de usuario.Los bocetos en general son bastante lo que tendrían el aspecto final.Los personajes deberían desarrollar más.No dan ideas de negocio en sus aplicaciones.
-
-Para ver la valoración personal [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P4)
+Como conclusión final de un segundo trabajo he podido percibir que he podido analizar de otra forma la página para la cual hemos rediseñado en un tiempo récord además de poder encontrar nuevas ideas de negocio que podrían ayudar a todos los usuarios e ir más allá ya que la aplicación tienen cabida no sola una oficina sino cientas de ellas o que cualquiera que tenga un espacio y los recursos mínimos también puede tomar parte de la aplicación.
