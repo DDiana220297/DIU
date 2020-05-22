@@ -75,7 +75,7 @@ Entre estas dos se ha elegido [ErrantT](https://www.errant.es/contacto/) dado qu
 >>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final de Meetup:69
+>>> - Valoración final de **ErrantT**:69
 >>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas pues se podría mejorar.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes como la falta de funcionalidades de la página que es el mayor de los problemas que le veo.Una cosa que no se lo he visto al resto de empresas que compiten es que dicen ya los precios.
 
 ## Paso 2.Incontro UX Design
@@ -84,9 +84,24 @@ Entre estas dos se ha elegido [ErrantT](https://www.errant.es/contacto/) dado qu
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como es el sistema de bonificación por la asistencia de los eventos en el ámbito de los idiomas ademas de buscar una simbiosis entre los tres protagonistas principales como el usuario,el profesional y el establecimiento para que se beneficien y cooperen.    
+En la malla receptora de información que hemos recopilado teniendo en cuenta las buenas características de la web que analizamos en la practica 1,las dificultades que encontraron nuestros usuarios que gracias a ese punto de vista vimos que podían mejorarse y algunas sugerencias para implementar nuevas funcionalidades,llevar a cabo una crítica constructiva centrándonos en los errores críticos que hemos analizado e ideas aportadas por los desarrolladores donde se corregirían funcionalidades y aportar propuestas de valor como una función en tiempo real de la disponibilidad de las oficinas para que el usuario sepa al instante si debe acudir a esa oficina o una mayor interacción entre los profesionales y los clientes.    
 
-Para ver la malla receptora de información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
+- Feedback Capture Grid: Malla Receptora De Información.
+
+  | Interesante                                                          | Críticas                                          |
+  | :------:                                                             | :------:                                          |
+  | 1.Información precisa y concisa.                                     | 1.Falta de idiomas.                               |       
+  | 2.Tarifas y precios establecidos.                                    | 2.Ofrece poco contenido                           |      
+  | 3.Disponibilidad de un blog .                                        | 3.Falta de ayuda y un formulario.                 |
+  | 4.Videos promocionales                                .              | 4.Mantener la coherencia del idioma.              |
+  |  __Preguntas__                                                       |  __Nuevas ideas__                                 |
+  | 1.Crear grupos en función del tipo de autónomo.                       | 1.Funcionalidades adaptadas al tipo de usuario.   |
+  | 2.Poner claro donde está el servicio técnico.                        | 2.Funcionalidades para una mayor libertad del establecimiento                |        
+  | 3.Un chat de los asistentes a esa oficina.                             | 3.Promoción por número de amigos traídos.         |
+  | 4.El chat más amplio en cuestión de temas                               | 4.Tiempo real de la disponibilidad de las oficinas.                                   |
+  | 5.Realidad aumentada en caso de tener que hacer una reunión en la oficina.                   | 5.Penalización y bonificación por la asistencia.  |    
+  | 6.Me gustaría un modo privado.                                      | 6.Un tutorial guiado.                             |
+  | 7.Un modo nocturno nocturno.                                         | 7.Un monedero para el saldo.                      |
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
