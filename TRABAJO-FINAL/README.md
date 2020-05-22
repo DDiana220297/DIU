@@ -75,11 +75,8 @@ Entre estas dos se ha elegido [ErrantT](https://www.errant.es/contacto/) dado qu
 >>> - Enlace al documento:
       Para ver el PDF [pulse aquí](https://github.com/salva12345678/DIU/blob/master/P1/Usability-review.pdf)
 
->>> - Valoración final de Meetup:64
->>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas son relevante y precisas.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes.Las funciones de volver atrás fallaban y te llevaba a una pantalla en blanco.En la página hay marcadores que están descuadrados.La ubicación actual no está clara .La búsqueda por parámetros múltiples es bastante pobre.No hay búsquedas comunes sino que ya están definidas.Los usuarios no pueden enviar comentario,no hay correo de la empresa y solo hay un chat de ayuda.
-
-Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P1)
-
+>>> - Valoración final de Meetup:69
+>>> - Comentario sobre la valoración:En general la web cumple con las principales características y metas que se persiguen.La información que se muestra es precisa y no es redundante.Los resultados de las búsquedas pues se podría mejorar.El rendimiento de la página es excelente.Existen otros aspectos que no han sido muy gratificantes como la falta de funcionalidades de la página que es el mayor de los problemas que le veo.Una cosa que no se lo he visto al resto de empresas que compiten es que dicen ya los precios.
 
 ## Paso 2.Incontro UX Design
 
