@@ -97,11 +97,11 @@ En la malla receptora de información que hemos recopilado teniendo en cuenta la
   |  __Preguntas__                                                       |  __Nuevas ideas__                                 |
   | 1.Crear grupos en función del tipo de autónomo.                       | 1.Funcionalidades adaptadas al tipo de usuario.   |
   | 2.Poner claro donde está el servicio técnico.                        | 2.Funcionalidades para una mayor libertad del establecimiento                |        
-  | 3.Un chat de los asistentes a esa oficina.                             | 3.Promoción por número de amigos traídos.         |
+  | 3.Un chat de los asistentes a esa oficina.                             | 3. herramientas de chat,correo,etc         |
   | 4.El chat más amplio en cuestión de temas                               | 4.Tiempo real de la disponibilidad de las oficinas.                                   |
-  | 5.Realidad aumentada en caso de tener que hacer una reunión en la oficina.                   | 5.Penalización y bonificación por la asistencia.  |    
+  | 5.Realidad aumentada en caso de tener que hacer una reunión en la oficina.                   | 5.Un monedero para el saldo..  |    
   | 6.Me gustaría un modo privado.                                      | 6.Un tutorial guiado.                             |
-  | 7.Un modo nocturno nocturno.                                         | 7.Un monedero para el saldo.                      |
+  | 7.Un modo nocturno nocturno.                                         |                       |
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap
