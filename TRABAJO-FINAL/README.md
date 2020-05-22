@@ -109,7 +109,32 @@ En la malla receptora de información que hemos recopilado teniendo en cuenta la
 
 Entre las dos posibilidades nos hemos decidido por por hacer la matriz de tareas para analizar los usuarios que van a usar la aplicación y las tareas principales para poder analizar la frecuencia de uso de las acciones y así poder situar las funcionalidades en la aplicación. Para todo esto se hará un ranking de estas funcionalidades pero también viendo otros aspectos ya que habrá algunas funcionalidades que solo usará uno de los tantos tipos de usuarios que hay.
 
-Para ver la matriz de usuario y tareas [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P2)
+|GRUPOS DE USUARIOS              | Usuario         | Establecimientos   | Usuarios no registrados  | Ranking  |
+| :------:                       | :------:        | :------:           |  :------:                | :------: |
+| Buscar.                        | Alto            | Alto               | NO                       | 12       |
+| Abonar Dinero.                 | Medio           | Alto               | NO                       | 10.5     |
+| Consultar Correo.              | Medio-Alto      | Alto               | NO                       | 10       |
+| Consultar chat.                | Alto            | Bajo               | NO                       | 10       |
+| Consultar oferta.              | Medio           | Alto               | NO                       | 10       |
+| Enviar Correo.                 | Bajo            | Alto               | NO                       | 8        |
+| Consultar Notificaciones.      | Medio           | Medio              | NO                       | 8        |
+| Consultar calendario.          | Medio           | Bajo               | NO                       | 7        |
+| Asistir Oficina.               | Alto            | NO                 | NO                       | 6        |
+| Alta en Oficina.               | Medio-Alto      | NO                 | NO                       | 5        |
+| Crear Oficina.                 | Bajo            | Bajo               | NO                       | 5        |
+| Borrar Oficina.                | Bajo            | Bajo               | NO                       | 4        |
+| Pasar a privado.               | Bajo            | Bajo               | NO                       | 4        |
+| Cambiar idioma.                | Bajo            | Bajo               | NO                       | 4        |
+| Poner modo nocturno.           | Bajo            | Bajo               | NO                       | 4        |
+| Consultar dinero.              | Bajo            | Bajo               | NO                       | 4        |
+| Poner Oferta.                  | NO              | Medio              | NO                       | 4        |
+| Consultar ayuda.               | Bajo            | Bajo               | NO                       | 4        |
+| Iniciar Sesión.                | Bajo            | Bajo               | NO                       | 3        |
+| Baja de oficina.               | Bajo            | NO                 | NO                       | 2        |
+| Quitar oferta.                 | NO              | Bajo               | NO                       | 2        |   
+| Validar Oficina.               | NO              | Bajo               | NO                       | 1        |
+| Registrarse.                   | NO              | NO                 | Bajo                     | 1        |
+| Introducir credenciales.       | NO              | NO                 | Bajo                     | 1        |
 
 ![Método UX](img/labelling.png) 2.c Labelling
 ----
