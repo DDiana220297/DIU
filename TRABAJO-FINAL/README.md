@@ -166,8 +166,6 @@ Colores usados:
 
 ![Método UX](img/colorfin.png)
 
-Para más información [pulse aquí](https://github.com/salva12345678/DIU/tree/master/P3)
-
 
 ## ![Método UX](img/mockup.png)  3.e Conclusión final.
 
